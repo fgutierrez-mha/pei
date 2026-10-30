@@ -1,0 +1,10 @@
+# Patient / participant data must never be committed
+*.xlsx
+*.xls
+*.csv
+*.html
+__pycache__/
+.venv/
+
+# Aggregated, identifier-free outputs may be committed
+!aggregates/*.csv
