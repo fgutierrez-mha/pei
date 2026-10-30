@@ -23,7 +23,7 @@ if LOGO.exists():
 st.markdown(
     f"""
 <style>
-.block-container{{padding-top:1.2rem;max-width:1400px}}
+.block-container{{padding-top:4.5rem;max-width:1400px}}
 h1,h2,h3,h4{{color:{NAVY}}}
 .hero{{display:flex;align-items:center;flex-wrap:wrap;gap:12px 28px;background:#fff;border:1px solid #DCE7F3;
   border-bottom:4px solid {BLUE};border-radius:14px;padding:14px 24px;margin-bottom:16px;box-shadow:0 2px 8px rgba(31,59,122,.07)}}
@@ -228,9 +228,6 @@ def render_emr():
 
     lo, hi = month_filter(list(mon["Month"]) + list(canc["Month"]), "emr_months")
     inr = lambda d: d[(d["Month"] >= lo) & (d["Month"] <= hi)]
-    st.caption(f"Data through {kp.get('Data through', 'n/a')}. 'Seen' means completed, checked-in or checked-out visits; "
-               "pending, cancelled, rescheduled, no-show and phone-contact statuses are excluded. "
-               "Demographics and chronic conditions cover all patients, not the selected period.")
     tabs = st.tabs(["Overview", "Cancellations", "Patients", "Visits & Sites", "Chronic Conditions"])
 
     with tabs[0]:
@@ -250,8 +247,6 @@ def render_emr():
             kpi(k[2], f"Clinic Days ({mlab})", int(cur["ClinicDays"]), d("ClinicDays"))
             kpi(k[3], "Patients on Record", f"{int(kp.get('Patients on record', 0)):,}")
             kpi(k[4], "Seen in Last 12 Months", f"{int(kp.get('Seen in last 12 months', 0)):,}")
-            st.caption("'Patients on record' is the number of unique patient IDs in Encounters, used as the enrolled count. "
-                       "Deltas compare with the prior month; the latest month may be partial.")
             a, b = st.columns(2)
             with a:
                 col_bar(m["Month"], m["AvgPerDay"], "Average Appointments per Clinic Day")
@@ -343,7 +338,6 @@ def render_emr():
             table(pv)
 
     with tabs[4]:
-        st.caption("Each patient's most recent reading (by encounter date). Only patients with a reading are counted.")
         for name, label, order, positive in [
             ("Hypertension", "Hypertension (Blood Pressure)", BP_ORDER, ["Stage 1", "Stage 2", "Hypertensive Crisis"]),
             ("Diabetes (A1c)", "Diabetes (A1c)", A1C_ORDER, ["Diabetes (6.5+)"]),
@@ -378,8 +372,6 @@ def render_er():
     inr = lambda d: d[(d["Month"] >= lo) & (d["Month"] <= hi)]
     sm, ds = inr(sm), inr(ds)
     da = ds[ds["Dimension"] == "(all)"]
-    st.caption("Distribution units mix boxes, bags and single items; the item table shows what each is measured in. "
-               "Demographics and screening results cover all dates.")
     tabs = st.tabs(["Overview", "Screenings", "Distributions"])
 
     with tabs[0]:
