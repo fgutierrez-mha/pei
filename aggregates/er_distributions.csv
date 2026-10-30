@@ -1,0 +1,1719 @@
+Month,Item,Dimension,Value,Events,Units,MeasuredAs
+2022-03,Blood Glucose Monitor,(all),(all),1,1.0,# Distributed
+2022-04,Blood Glucose Monitor,(all),(all),1,1.0,# Distributed
+2022-05,Blood Glucose Monitor,(all),(all),2,2.0,# Distributed
+2022-06,Blood Glucose Monitor,(all),(all),2,2.0,# Distributed
+2022-07,Blood Glucose Monitor,(all),(all),1,1.0,# Distributed
+2022-11,Blood Glucose Monitor,(all),(all),1,1.0,# Distributed
+2022-12,Blood Glucose Monitor,(all),(all),2,2.0,# Distributed
+2023-01,Blood Glucose Monitor,(all),(all),1,1.0,# Distributed
+2023-02,Blood Glucose Monitor,(all),(all),1,1.0,# Distributed
+2023-04,Blood Glucose Monitor,(all),(all),2,2.0,# Distributed
+2023-07,Blood Glucose Monitor,(all),(all),2,2.0,# Distributed
+2023-09,Blood Glucose Monitor,(all),(all),2,2.0,# Distributed
+2023-11,Blood Glucose Monitor,(all),(all),2,2.0,# Distributed
+2023-12,Blood Glucose Monitor,(all),(all),1,1.0,# Distributed
+2024-03,Blood Glucose Monitor,(all),(all),3,3.0,# Distributed
+2024-04,Blood Glucose Monitor,(all),(all),4,4.0,# Distributed
+2024-06,Blood Glucose Monitor,(all),(all),2,2.0,# Distributed
+2024-07,Blood Glucose Monitor,(all),(all),1,1.0,# Distributed
+2024-08,Blood Glucose Monitor,(all),(all),1,1.0,# Distributed
+2024-09,Blood Glucose Monitor,(all),(all),1,1.0,# Distributed
+2025-02,Blood Glucose Monitor,(all),(all),1,1.0,# Distributed
+2025-03,Blood Glucose Monitor,(all),(all),3,3.0,# Distributed
+2025-08,Blood Glucose Monitor,(all),(all),2,2.0,# Distributed
+2025-09,Blood Glucose Monitor,(all),(all),1,1.0,# Distributed
+2025-11,Blood Glucose Monitor,(all),(all),4,4.0,# Distributed
+2026-05,Blood Glucose Monitor,(all),(all),2,2.0,# Distributed
+2026-06,Blood Glucose Monitor,(all),(all),4,4.0,# Distributed
+2026-07,Blood Glucose Monitor,(all),(all),1,1.0,# Distributed
+2026-08,Blood Glucose Monitor,(all),(all),3,4.0,# Distributed
+2026-09,Blood Glucose Monitor,(all),(all),2,2.0,# Distributed
+2026-10,Blood Glucose Monitor,(all),(all),5,5.0,# Distributed
+2020-06,Blood Pressure Cuff,(all),(all),10,13.0,# Distributed
+2020-07,Blood Pressure Cuff,(all),(all),11,11.0,# Distributed
+2020-08,Blood Pressure Cuff,(all),(all),10,10.0,# Distributed
+2020-09,Blood Pressure Cuff,(all),(all),5,5.0,# Distributed
+2020-10,Blood Pressure Cuff,(all),(all),6,6.0,# Distributed
+2020-11,Blood Pressure Cuff,(all),(all),9,9.0,# Distributed
+2020-12,Blood Pressure Cuff,(all),(all),4,4.0,# Distributed
+2021-01,Blood Pressure Cuff,(all),(all),10,10.0,# Distributed
+2021-02,Blood Pressure Cuff,(all),(all),9,9.0,# Distributed
+2021-03,Blood Pressure Cuff,(all),(all),6,6.0,# Distributed
+2021-04,Blood Pressure Cuff,(all),(all),14,14.0,# Distributed
+2021-05,Blood Pressure Cuff,(all),(all),11,11.0,# Distributed
+2021-06,Blood Pressure Cuff,(all),(all),7,7.0,# Distributed
+2021-07,Blood Pressure Cuff,(all),(all),5,5.0,# Distributed
+2021-08,Blood Pressure Cuff,(all),(all),8,8.0,# Distributed
+2021-09,Blood Pressure Cuff,(all),(all),16,16.0,# Distributed
+2021-10,Blood Pressure Cuff,(all),(all),6,7.0,# Distributed
+2021-11,Blood Pressure Cuff,(all),(all),4,4.0,# Distributed
+2021-12,Blood Pressure Cuff,(all),(all),5,5.0,# Distributed
+2022-01,Blood Pressure Cuff,(all),(all),4,4.0,# Distributed
+2022-02,Blood Pressure Cuff,(all),(all),6,6.0,# Distributed
+2022-03,Blood Pressure Cuff,(all),(all),3,3.0,# Distributed
+2022-04,Blood Pressure Cuff,(all),(all),3,3.0,# Distributed
+2022-05,Blood Pressure Cuff,(all),(all),5,5.0,# Distributed
+2022-06,Blood Pressure Cuff,(all),(all),11,12.0,# Distributed
+2022-07,Blood Pressure Cuff,(all),(all),5,5.0,# Distributed
+2022-08,Blood Pressure Cuff,(all),(all),3,3.0,# Distributed
+2022-09,Blood Pressure Cuff,(all),(all),4,4.0,# Distributed
+2022-10,Blood Pressure Cuff,(all),(all),3,3.0,# Distributed
+2022-11,Blood Pressure Cuff,(all),(all),3,3.0,# Distributed
+2022-12,Blood Pressure Cuff,(all),(all),6,6.0,# Distributed
+2023-01,Blood Pressure Cuff,(all),(all),1,1.0,# Distributed
+2023-02,Blood Pressure Cuff,(all),(all),5,5.0,# Distributed
+2023-03,Blood Pressure Cuff,(all),(all),2,2.0,# Distributed
+2023-04,Blood Pressure Cuff,(all),(all),1,1.0,# Distributed
+2023-05,Blood Pressure Cuff,(all),(all),2,2.0,# Distributed
+2023-06,Blood Pressure Cuff,(all),(all),1,1.0,# Distributed
+2023-07,Blood Pressure Cuff,(all),(all),7,7.0,# Distributed
+2023-08,Blood Pressure Cuff,(all),(all),1,1.0,# Distributed
+2023-09,Blood Pressure Cuff,(all),(all),2,2.0,# Distributed
+2023-11,Blood Pressure Cuff,(all),(all),2,2.0,# Distributed
+2023-12,Blood Pressure Cuff,(all),(all),1,1.0,# Distributed
+2024-01,Blood Pressure Cuff,(all),(all),2,2.0,# Distributed
+2024-03,Blood Pressure Cuff,(all),(all),5,5.0,# Distributed
+2024-04,Blood Pressure Cuff,(all),(all),2,2.0,# Distributed
+2024-05,Blood Pressure Cuff,(all),(all),1,1.0,# Distributed
+2024-06,Blood Pressure Cuff,(all),(all),1,1.0,# Distributed
+2024-07,Blood Pressure Cuff,(all),(all),3,3.0,# Distributed
+2024-08,Blood Pressure Cuff,(all),(all),4,4.0,# Distributed
+2024-10,Blood Pressure Cuff,(all),(all),2,2.0,# Distributed
+2025-03,Blood Pressure Cuff,(all),(all),3,4.0,# Distributed
+2025-04,Blood Pressure Cuff,(all),(all),3,3.0,# Distributed
+2025-06,Blood Pressure Cuff,(all),(all),2,2.0,# Distributed
+2025-07,Blood Pressure Cuff,(all),(all),1,1.0,# Distributed
+2025-08,Blood Pressure Cuff,(all),(all),4,4.0,# Distributed
+2025-09,Blood Pressure Cuff,(all),(all),5,5.0,# Distributed
+2025-10,Blood Pressure Cuff,(all),(all),7,7.0,# Distributed
+2025-11,Blood Pressure Cuff,(all),(all),5,5.0,# Distributed
+2025-12,Blood Pressure Cuff,(all),(all),1,1.0,# Distributed
+2026-01,Blood Pressure Cuff,(all),(all),3,3.0,# Distributed
+2026-02,Blood Pressure Cuff,(all),(all),4,4.0,# Distributed
+2026-04,Blood Pressure Cuff,(all),(all),6,6.0,# Distributed
+2026-05,Blood Pressure Cuff,(all),(all),4,4.0,# Distributed
+2026-06,Blood Pressure Cuff,(all),(all),6,6.0,# Distributed
+2026-07,Blood Pressure Cuff,(all),(all),4,4.0,# Distributed
+2026-08,Blood Pressure Cuff,(all),(all),3,3.0,# Distributed
+2026-09,Blood Pressure Cuff,(all),(all),5,5.0,# Distributed
+2026-10,Blood Pressure Cuff,(all),(all),4,4.0,# Distributed
+2020-06,Blood Pressure Cuff,Organization,RCMS,1,4.0,# Distributed
+2020-06,Blood Pressure Cuff,Organization,Unknown,9,9.0,# Distributed
+2020-07,Blood Pressure Cuff,Organization,Unknown,11,11.0,# Distributed
+2020-08,Blood Pressure Cuff,Organization,Unknown,10,10.0,# Distributed
+2020-09,Blood Pressure Cuff,Organization,Unknown,5,5.0,# Distributed
+2020-10,Blood Pressure Cuff,Organization,Unknown,6,6.0,# Distributed
+2020-11,Blood Pressure Cuff,Organization,Unknown,9,9.0,# Distributed
+2020-12,Blood Pressure Cuff,Organization,Unknown,4,4.0,# Distributed
+2021-01,Blood Pressure Cuff,Organization,Unknown,10,10.0,# Distributed
+2021-02,Blood Pressure Cuff,Organization,Unknown,9,9.0,# Distributed
+2021-03,Blood Pressure Cuff,Organization,Unknown,6,6.0,# Distributed
+2021-04,Blood Pressure Cuff,Organization,Unknown,14,14.0,# Distributed
+2021-05,Blood Pressure Cuff,Organization,Unknown,11,11.0,# Distributed
+2021-06,Blood Pressure Cuff,Organization,Unknown,7,7.0,# Distributed
+2021-07,Blood Pressure Cuff,Organization,Unknown,5,5.0,# Distributed
+2021-08,Blood Pressure Cuff,Organization,Unknown,8,8.0,# Distributed
+2021-09,Blood Pressure Cuff,Organization,Unknown,16,16.0,# Distributed
+2021-10,Blood Pressure Cuff,Organization,Unknown,6,7.0,# Distributed
+2021-11,Blood Pressure Cuff,Organization,Unknown,4,4.0,# Distributed
+2021-12,Blood Pressure Cuff,Organization,Unknown,5,5.0,# Distributed
+2022-01,Blood Pressure Cuff,Organization,Unknown,4,4.0,# Distributed
+2022-02,Blood Pressure Cuff,Organization,Unknown,6,6.0,# Distributed
+2022-03,Blood Pressure Cuff,Organization,Unknown,3,3.0,# Distributed
+2022-04,Blood Pressure Cuff,Organization,Unknown,3,3.0,# Distributed
+2022-05,Blood Pressure Cuff,Organization,Unknown,5,5.0,# Distributed
+2022-06,Blood Pressure Cuff,Organization,Unknown,11,12.0,# Distributed
+2022-07,Blood Pressure Cuff,Organization,Unknown,5,5.0,# Distributed
+2022-08,Blood Pressure Cuff,Organization,Unknown,3,3.0,# Distributed
+2022-09,Blood Pressure Cuff,Organization,Unknown,4,4.0,# Distributed
+2022-10,Blood Pressure Cuff,Organization,Unknown,3,3.0,# Distributed
+2022-11,Blood Pressure Cuff,Organization,Unknown,3,3.0,# Distributed
+2022-12,Blood Pressure Cuff,Organization,Unknown,6,6.0,# Distributed
+2023-01,Blood Pressure Cuff,Organization,Unknown,1,1.0,# Distributed
+2023-02,Blood Pressure Cuff,Organization,Unknown,5,5.0,# Distributed
+2023-03,Blood Pressure Cuff,Organization,Unknown,2,2.0,# Distributed
+2023-04,Blood Pressure Cuff,Organization,Unknown,1,1.0,# Distributed
+2023-05,Blood Pressure Cuff,Organization,Unknown,2,2.0,# Distributed
+2023-06,Blood Pressure Cuff,Organization,Unknown,1,1.0,# Distributed
+2023-07,Blood Pressure Cuff,Organization,Unknown,7,7.0,# Distributed
+2023-08,Blood Pressure Cuff,Organization,Unknown,1,1.0,# Distributed
+2023-09,Blood Pressure Cuff,Organization,Unknown,2,2.0,# Distributed
+2023-11,Blood Pressure Cuff,Organization,Unknown,2,2.0,# Distributed
+2023-12,Blood Pressure Cuff,Organization,Unknown,1,1.0,# Distributed
+2024-01,Blood Pressure Cuff,Organization,Unknown,2,2.0,# Distributed
+2024-03,Blood Pressure Cuff,Organization,Unknown,5,5.0,# Distributed
+2024-04,Blood Pressure Cuff,Organization,Unknown,2,2.0,# Distributed
+2024-05,Blood Pressure Cuff,Organization,Unknown,1,1.0,# Distributed
+2024-06,Blood Pressure Cuff,Organization,Unknown,1,1.0,# Distributed
+2024-07,Blood Pressure Cuff,Organization,Unknown,3,3.0,# Distributed
+2024-08,Blood Pressure Cuff,Organization,Unknown,4,4.0,# Distributed
+2024-10,Blood Pressure Cuff,Organization,Unknown,2,2.0,# Distributed
+2025-03,Blood Pressure Cuff,Organization,Unknown,3,4.0,# Distributed
+2025-04,Blood Pressure Cuff,Organization,Unknown,3,3.0,# Distributed
+2025-06,Blood Pressure Cuff,Organization,Unknown,2,2.0,# Distributed
+2025-07,Blood Pressure Cuff,Organization,Unknown,1,1.0,# Distributed
+2025-08,Blood Pressure Cuff,Organization,Unknown,4,4.0,# Distributed
+2025-09,Blood Pressure Cuff,Organization,Unknown,5,5.0,# Distributed
+2025-10,Blood Pressure Cuff,Organization,Unknown,7,7.0,# Distributed
+2025-11,Blood Pressure Cuff,Organization,Unknown,5,5.0,# Distributed
+2025-12,Blood Pressure Cuff,Organization,Unknown,1,1.0,# Distributed
+2026-01,Blood Pressure Cuff,Organization,Unknown,3,3.0,# Distributed
+2026-02,Blood Pressure Cuff,Organization,Unknown,4,4.0,# Distributed
+2026-04,Blood Pressure Cuff,Organization,Unknown,6,6.0,# Distributed
+2026-05,Blood Pressure Cuff,Organization,Unknown,4,4.0,# Distributed
+2026-06,Blood Pressure Cuff,Organization,Unknown,6,6.0,# Distributed
+2026-07,Blood Pressure Cuff,Organization,Unknown,4,4.0,# Distributed
+2026-08,Blood Pressure Cuff,Organization,Unknown,3,3.0,# Distributed
+2026-09,Blood Pressure Cuff,Organization,Unknown,5,5.0,# Distributed
+2026-10,Blood Pressure Cuff,Organization,Unknown,4,4.0,# Distributed
+2022-01,COVID Home Tests,(all),(all),51,145.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-02,COVID Home Tests,(all),(all),50,124.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-03,COVID Home Tests,(all),(all),17,50.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-04,COVID Home Tests,(all),(all),10,26.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-05,COVID Home Tests,(all),(all),31,51.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-06,COVID Home Tests,(all),(all),36,59.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-07,COVID Home Tests,(all),(all),28,51.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-08,COVID Home Tests,(all),(all),15,33.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-09,COVID Home Tests,(all),(all),11,19.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-10,COVID Home Tests,(all),(all),28,61.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-11,COVID Home Tests,(all),(all),27,55.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-12,COVID Home Tests,(all),(all),58,192.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-01,COVID Home Tests,(all),(all),29,137.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-02,COVID Home Tests,(all),(all),26,71.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-03,COVID Home Tests,(all),(all),10,27.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-04,COVID Home Tests,(all),(all),7,193.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-05,COVID Home Tests,(all),(all),7,29.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-06,COVID Home Tests,(all),(all),7,35.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-07,COVID Home Tests,(all),(all),16,106.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-08,COVID Home Tests,(all),(all),27,96.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-09,COVID Home Tests,(all),(all),29,127.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-10,COVID Home Tests,(all),(all),15,56.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-11,COVID Home Tests,(all),(all),33,257.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-12,COVID Home Tests,(all),(all),13,58.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-01,COVID Home Tests,(all),(all),8,34.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-02,COVID Home Tests,(all),(all),6,28.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-03,COVID Home Tests,(all),(all),17,95.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-04,COVID Home Tests,(all),(all),8,37.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-05,COVID Home Tests,(all),(all),25,82.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-06,COVID Home Tests,(all),(all),18,55.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-07,COVID Home Tests,(all),(all),41,153.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-08,COVID Home Tests,(all),(all),58,165.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-09,COVID Home Tests,(all),(all),49,158.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-10,COVID Home Tests,(all),(all),13,29.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-11,COVID Home Tests,(all),(all),8,26.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-12,COVID Home Tests,(all),(all),4,13.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-01,COVID Home Tests,(all),(all),15,37.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-02,COVID Home Tests,(all),(all),9,39.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-03,COVID Home Tests,(all),(all),7,17.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-04,COVID Home Tests,(all),(all),5,11.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-05,COVID Home Tests,(all),(all),9,17.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-06,COVID Home Tests,(all),(all),3,6.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2026-02,COVID Home Tests,(all),(all),3,6.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-01,COVID Home Tests,Zip Code,94601,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-01,COVID Home Tests,Zip Code,95412,2,3.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-01,COVID Home Tests,Zip Code,95432,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-01,COVID Home Tests,Zip Code,95445,20,39.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-01,COVID Home Tests,Zip Code,95459,5,18.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-01,COVID Home Tests,Zip Code,95468,11,19.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-01,COVID Home Tests,Zip Code,95480,5,53.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-01,COVID Home Tests,Zip Code,95497,5,7.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-01,COVID Home Tests,Zip Code,Out of MHA Service Area,1,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-02,COVID Home Tests,Zip Code,95445,15,40.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-02,COVID Home Tests,Zip Code,95450,1,3.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-02,COVID Home Tests,Zip Code,95459,4,10.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-02,COVID Home Tests,Zip Code,95468,26,56.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-02,COVID Home Tests,Zip Code,95480,3,7.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-02,COVID Home Tests,Zip Code,95497,1,8.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-03,COVID Home Tests,Zip Code,95445,4,9.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-03,COVID Home Tests,Zip Code,95459,3,9.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-03,COVID Home Tests,Zip Code,95468,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-03,COVID Home Tests,Zip Code,95480,9,30.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-04,COVID Home Tests,Zip Code,94609,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-04,COVID Home Tests,Zip Code,95445,6,14.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-04,COVID Home Tests,Zip Code,95468,2,7.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-04,COVID Home Tests,Zip Code,Gualala,1,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-05,COVID Home Tests,Zip Code,28806,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-05,COVID Home Tests,Zip Code,95445,20,27.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-05,COVID Home Tests,Zip Code,95459,3,11.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-05,COVID Home Tests,Zip Code,95468,2,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-05,COVID Home Tests,Zip Code,95497,5,8.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-06,COVID Home Tests,Zip Code,94115,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-06,COVID Home Tests,Zip Code,94952,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-06,COVID Home Tests,Zip Code,95445,17,28.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-06,COVID Home Tests,Zip Code,95461,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-06,COVID Home Tests,Zip Code,95468,8,17.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-06,COVID Home Tests,Zip Code,95497,3,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-06,COVID Home Tests,Zip Code,Out Of Area,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-06,COVID Home Tests,Zip Code,Out of Area,3,3.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-06,COVID Home Tests,Zip Code,not in service area,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-07,COVID Home Tests,Zip Code,95401,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-07,COVID Home Tests,Zip Code,95445,13,24.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-07,COVID Home Tests,Zip Code,95459,2,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-07,COVID Home Tests,Zip Code,95468,5,7.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-07,COVID Home Tests,Zip Code,95497,3,6.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-07,COVID Home Tests,Zip Code,95820,1,3.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-07,COVID Home Tests,Zip Code,Out of Area,3,8.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-08,COVID Home Tests,Zip Code,95445,8,22.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-08,COVID Home Tests,Zip Code,95459,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-08,COVID Home Tests,Zip Code,95468,2,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-08,COVID Home Tests,Zip Code,95497,3,5.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-08,COVID Home Tests,Zip Code,Out of Area,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-09,COVID Home Tests,Zip Code,95445,4,8.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-09,COVID Home Tests,Zip Code,95468,1,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-09,COVID Home Tests,Zip Code,95482,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-09,COVID Home Tests,Zip Code,95497,4,5.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-09,COVID Home Tests,Zip Code,Out of Area,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-10,COVID Home Tests,Zip Code,02645,1,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-10,COVID Home Tests,Zip Code,95410,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-10,COVID Home Tests,Zip Code,95413,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-10,COVID Home Tests,Zip Code,95445,9,20.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-10,COVID Home Tests,Zip Code,95459,2,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-10,COVID Home Tests,Zip Code,95468,9,22.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-10,COVID Home Tests,Zip Code,95497,4,6.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-10,COVID Home Tests,Zip Code,Out of area,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-11,COVID Home Tests,Zip Code,94903,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-11,COVID Home Tests,Zip Code,95445,16,34.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-11,COVID Home Tests,Zip Code,95459,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-11,COVID Home Tests,Zip Code,95468,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-11,COVID Home Tests,Zip Code,95480,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-11,COVID Home Tests,Zip Code,95497,6,13.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-11,COVID Home Tests,Zip Code,Out of area,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-12,COVID Home Tests,Zip Code,95412,2,10.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-12,COVID Home Tests,Zip Code,95445,34,113.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-12,COVID Home Tests,Zip Code,95459,1,3.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-12,COVID Home Tests,Zip Code,95468,8,27.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-12,COVID Home Tests,Zip Code,95480,1,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2022-12,COVID Home Tests,Zip Code,95497,12,35.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-01,COVID Home Tests,Zip Code,95403,1,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-01,COVID Home Tests,Zip Code,95412,1,8.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-01,COVID Home Tests,Zip Code,95445,13,61.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-01,COVID Home Tests,Zip Code,95459,2,14.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-01,COVID Home Tests,Zip Code,95468,4,18.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-01,COVID Home Tests,Zip Code,95497,8,32.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-02,COVID Home Tests,Zip Code,95445,15,49.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-02,COVID Home Tests,Zip Code,95468,6,13.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-02,COVID Home Tests,Zip Code,95497,5,9.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-03,COVID Home Tests,Zip Code,95445,5,16.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-03,COVID Home Tests,Zip Code,95480,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-03,COVID Home Tests,Zip Code,95497,3,8.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-03,COVID Home Tests,Zip Code,Out of area,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-04,COVID Home Tests,Zip Code,95445,2,5.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-04,COVID Home Tests,Zip Code,95459,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-04,COVID Home Tests,Zip Code,95468,2,183.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-04,COVID Home Tests,Zip Code,95497,2,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-05,COVID Home Tests,Zip Code,95445,4,22.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-05,COVID Home Tests,Zip Code,95468,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-05,COVID Home Tests,Zip Code,95480,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-05,COVID Home Tests,Zip Code,95497,1,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-06,COVID Home Tests,Zip Code,95421,1,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-06,COVID Home Tests,Zip Code,95445,5,28.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-06,COVID Home Tests,Zip Code,95497,1,3.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-07,COVID Home Tests,Zip Code,95403,1,6.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-07,COVID Home Tests,Zip Code,95445,4,48.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-07,COVID Home Tests,Zip Code,95459,1,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-07,COVID Home Tests,Zip Code,95468,4,20.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-07,COVID Home Tests,Zip Code,95497,5,27.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-07,COVID Home Tests,Zip Code,95648,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-08,COVID Home Tests,Zip Code,95421,1,5.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-08,COVID Home Tests,Zip Code,95445,10,45.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-08,COVID Home Tests,Zip Code,95459,1,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-08,COVID Home Tests,Zip Code,95468,6,18.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-08,COVID Home Tests,Zip Code,95480,2,5.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-08,COVID Home Tests,Zip Code,95497,6,15.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-08,COVID Home Tests,Zip Code,95947,1,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-09,COVID Home Tests,Zip Code,95445,21,89.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-09,COVID Home Tests,Zip Code,95468,3,27.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-09,COVID Home Tests,Zip Code,95497,3,9.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-09,COVID Home Tests,Zip Code,Out of area,2,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-10,COVID Home Tests,Zip Code,95445,8,43.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-10,COVID Home Tests,Zip Code,95459,1,3.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-10,COVID Home Tests,Zip Code,95468,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-10,COVID Home Tests,Zip Code,95497,3,6.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-10,COVID Home Tests,Zip Code,Out of area,2,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-11,COVID Home Tests,Zip Code,95445,25,196.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-11,COVID Home Tests,Zip Code,95450,1,31.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-11,COVID Home Tests,Zip Code,95468,2,9.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-11,COVID Home Tests,Zip Code,95497,5,21.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-12,COVID Home Tests,Zip Code,27610,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-12,COVID Home Tests,Zip Code,94521,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-12,COVID Home Tests,Zip Code,95445,7,37.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-12,COVID Home Tests,Zip Code,95468,3,15.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2023-12,COVID Home Tests,Zip Code,95497,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-01,COVID Home Tests,Zip Code,95412,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-01,COVID Home Tests,Zip Code,95421,1,5.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-01,COVID Home Tests,Zip Code,95445,5,23.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-01,COVID Home Tests,Zip Code,95468,1,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-02,COVID Home Tests,Zip Code,95445,3,14.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-02,COVID Home Tests,Zip Code,95468,1,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-02,COVID Home Tests,Zip Code,95497,2,10.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-03,COVID Home Tests,Zip Code,95412,1,40.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-03,COVID Home Tests,Zip Code,95445,15,53.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-03,COVID Home Tests,Zip Code,Out of Area,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-04,COVID Home Tests,Zip Code,95412,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-04,COVID Home Tests,Zip Code,95445,5,23.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-04,COVID Home Tests,Zip Code,95480,1,5.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-04,COVID Home Tests,Zip Code,95497,1,7.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-05,COVID Home Tests,Zip Code,95412,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-05,COVID Home Tests,Zip Code,95445,18,62.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-05,COVID Home Tests,Zip Code,95468,4,14.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-05,COVID Home Tests,Zip Code,95497,2,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-06,COVID Home Tests,Zip Code,95412,2,6.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-06,COVID Home Tests,Zip Code,95425,2,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-06,COVID Home Tests,Zip Code,95445,9,27.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-06,COVID Home Tests,Zip Code,95459,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-06,COVID Home Tests,Zip Code,95497,4,16.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-07,COVID Home Tests,Zip Code,85283,1,3.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-07,COVID Home Tests,Zip Code,95412,2,8.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-07,COVID Home Tests,Zip Code,95421,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-07,COVID Home Tests,Zip Code,95445,23,102.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-07,COVID Home Tests,Zip Code,95468,2,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-07,COVID Home Tests,Zip Code,95497,8,27.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-07,COVID Home Tests,Zip Code,Out of Area,2,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-07,COVID Home Tests,Zip Code,out of area,2,5.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-08,COVID Home Tests,Zip Code,94904,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-08,COVID Home Tests,Zip Code,95412,2,6.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-08,COVID Home Tests,Zip Code,95421,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-08,COVID Home Tests,Zip Code,95445,30,90.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-08,COVID Home Tests,Zip Code,95468,7,25.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-08,COVID Home Tests,Zip Code,95497,12,28.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-08,COVID Home Tests,Zip Code,95947,2,8.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-08,COVID Home Tests,Zip Code,Out of Area,2,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-08,COVID Home Tests,Zip Code,out of area,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-09,COVID Home Tests,Zip Code,95412,4,18.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-09,COVID Home Tests,Zip Code,95421,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-09,COVID Home Tests,Zip Code,95432,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-09,COVID Home Tests,Zip Code,95445,20,61.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-09,COVID Home Tests,Zip Code,95468,10,43.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-09,COVID Home Tests,Zip Code,95470,1,5.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-09,COVID Home Tests,Zip Code,95497,9,21.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-09,COVID Home Tests,Zip Code,95947,3,7.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-10,COVID Home Tests,Zip Code,95412,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-10,COVID Home Tests,Zip Code,95445,5,10.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-10,COVID Home Tests,Zip Code,95468,3,9.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-10,COVID Home Tests,Zip Code,95497,4,8.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-11,COVID Home Tests,Zip Code,95421,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-11,COVID Home Tests,Zip Code,95445,2,5.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-11,COVID Home Tests,Zip Code,95457,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-11,COVID Home Tests,Zip Code,95468,1,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-11,COVID Home Tests,Zip Code,95497,3,15.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-12,COVID Home Tests,Zip Code,95445,3,10.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2024-12,COVID Home Tests,Zip Code,95468,1,3.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-01,COVID Home Tests,Zip Code,95412,2,6.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-01,COVID Home Tests,Zip Code,95445,9,22.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-01,COVID Home Tests,Zip Code,95467,1,3.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-01,COVID Home Tests,Zip Code,95468,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-01,COVID Home Tests,Zip Code,95497,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-01,COVID Home Tests,Zip Code,98261,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-02,COVID Home Tests,Zip Code,95445,3,18.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-02,COVID Home Tests,Zip Code,95468,2,12.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-02,COVID Home Tests,Zip Code,95492,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-02,COVID Home Tests,Zip Code,95496,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-02,COVID Home Tests,Zip Code,95497,2,6.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-03,COVID Home Tests,Zip Code,95412,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-03,COVID Home Tests,Zip Code,95445,3,6.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-03,COVID Home Tests,Zip Code,95459,1,3.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-03,COVID Home Tests,Zip Code,95468,2,6.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-04,COVID Home Tests,Zip Code,95445,5,11.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-05,COVID Home Tests,Zip Code,95412,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-05,COVID Home Tests,Zip Code,95445,3,6.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-05,COVID Home Tests,Zip Code,95468,1,2.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-05,COVID Home Tests,Zip Code,95497,4,7.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-06,COVID Home Tests,Zip Code,95421,2,5.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2025-06,COVID Home Tests,Zip Code,95450,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2026-02,COVID Home Tests,Zip Code,95412,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2026-02,COVID Home Tests,Zip Code,95445,1,4.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2026-02,COVID Home Tests,Zip Code,95468,1,1.0,"# Boxes Distributed (2 per box), # of Boxes Distributed"
+2026-10,Diaper,(all),(all),2,4.0,Number
+2023-03,Fentanyl Test Strip,(all),(all),1,10.0,# of Packages (1 per package)
+2023-09,Fentanyl Test Strip,(all),(all),1,100.0,# of Packages (1 per package)
+2024-03,Fentanyl Test Strip,(all),(all),1,5.0,# of Packages (1 per package)
+2024-11,Fentanyl Test Strip,(all),(all),1,1.0,# of Packages (1 per package)
+2025-02,Fentanyl Test Strip,(all),(all),1,2.0,# of Packages (1 per package)
+2025-06,Fentanyl Test Strip,(all),(all),2,6.0,# of Packages (1 per package)
+2025-07,Fentanyl Test Strip,(all),(all),2,21.0,# of Packages (1 per package)
+2025-08,Fentanyl Test Strip,(all),(all),4,11.0,# of Packages (1 per package)
+2025-09,Fentanyl Test Strip,(all),(all),5,118.0,# of Packages (1 per package)
+2025-10,Fentanyl Test Strip,(all),(all),2,20.0,# of Packages (1 per package)
+2026-02,Fentanyl Test Strip,(all),(all),1,25.0,# of Packages (1 per package)
+2026-03,Fentanyl Test Strip,(all),(all),1,17.0,# of Packages (1 per package)
+2026-09,Fentanyl Test Strip,(all),(all),1,3.0,# of Packages (1 per package)
+2023-03,Fentanyl Test Strip,City,Point Arena,1,10.0,# of Packages (1 per package)
+2023-09,Fentanyl Test Strip,City,Stewarts Point,1,100.0,# of Packages (1 per package)
+2024-03,Fentanyl Test Strip,City,Gualala,1,5.0,# of Packages (1 per package)
+2024-11,Fentanyl Test Strip,City,The Sea Ranch,1,1.0,# of Packages (1 per package)
+2025-02,Fentanyl Test Strip,City,Point Arena,1,2.0,# of Packages (1 per package)
+2025-06,Fentanyl Test Strip,City,Gualala,2,6.0,# of Packages (1 per package)
+2025-07,Fentanyl Test Strip,City,Gualala,1,4.0,# of Packages (1 per package)
+2025-07,Fentanyl Test Strip,City,Stewarts Point,1,17.0,# of Packages (1 per package)
+2025-08,Fentanyl Test Strip,City,Gualala,1,1.0,# of Packages (1 per package)
+2025-08,Fentanyl Test Strip,City,Outside Service Area,1,3.0,# of Packages (1 per package)
+2025-08,Fentanyl Test Strip,City,Point Arena,2,7.0,# of Packages (1 per package)
+2025-09,Fentanyl Test Strip,City,Gualala,2,54.0,# of Packages (1 per package)
+2025-09,Fentanyl Test Strip,City,Point Arena,3,64.0,# of Packages (1 per package)
+2025-10,Fentanyl Test Strip,City,Point Arena,2,20.0,# of Packages (1 per package)
+2026-02,Fentanyl Test Strip,City,Point Arena,1,25.0,# of Packages (1 per package)
+2026-03,Fentanyl Test Strip,City,Gualala,1,17.0,# of Packages (1 per package)
+2026-09,Fentanyl Test Strip,City,Gualala,1,3.0,# of Packages (1 per package)
+2023-07,Glucometer Lancet,(all),(all),2,2.0,# of Boxes Distributed (100 per Box)
+2023-09,Glucometer Lancet,(all),(all),2,2.0,# of Boxes Distributed (100 per Box)
+2023-11,Glucometer Lancet,(all),(all),2,2.0,# of Boxes Distributed (100 per Box)
+2023-12,Glucometer Lancet,(all),(all),1,1.0,# of Boxes Distributed (100 per Box)
+2024-03,Glucometer Lancet,(all),(all),3,3.0,# of Boxes Distributed (100 per Box)
+2024-04,Glucometer Lancet,(all),(all),3,3.0,# of Boxes Distributed (100 per Box)
+2024-06,Glucometer Lancet,(all),(all),1,1.0,# of Boxes Distributed (100 per Box)
+2024-07,Glucometer Lancet,(all),(all),1,1.0,# of Boxes Distributed (100 per Box)
+2024-08,Glucometer Lancet,(all),(all),1,1.0,# of Boxes Distributed (100 per Box)
+2024-12,Glucometer Lancet,(all),(all),1,1.0,# of Boxes Distributed (100 per Box)
+2025-02,Glucometer Lancet,(all),(all),1,1.0,# of Boxes Distributed (100 per Box)
+2025-03,Glucometer Lancet,(all),(all),3,4.0,# of Boxes Distributed (100 per Box)
+2025-09,Glucometer Lancet,(all),(all),2,2.0,# of Boxes Distributed (100 per Box)
+2025-11,Glucometer Lancet,(all),(all),1,1.0,# of Boxes Distributed (100 per Box)
+2025-12,Glucometer Lancet,(all),(all),1,1.0,# of Boxes Distributed (100 per Box)
+2026-02,Glucometer Lancet,(all),(all),2,2.0,# of Boxes Distributed (100 per Box)
+2026-05,Glucometer Lancet,(all),(all),1,1.0,# of Boxes Distributed (100 per Box)
+2026-06,Glucometer Lancet,(all),(all),2,2.0,# of Boxes Distributed (100 per Box)
+2026-10,Glucometer Lancet,(all),(all),1,1.0,# of Boxes Distributed (100 per Box)
+2023-07,Glucometer Lancet,Organization,client,1,1.0,# of Boxes Distributed (100 per Box)
+2023-07,Glucometer Lancet,Organization,community member,1,1.0,# of Boxes Distributed (100 per Box)
+2023-09,Glucometer Lancet,Organization,client,1,1.0,# of Boxes Distributed (100 per Box)
+2023-09,Glucometer Lancet,Organization,community member,1,1.0,# of Boxes Distributed (100 per Box)
+2023-11,Glucometer Lancet,Organization,MHA,1,1.0,# of Boxes Distributed (100 per Box)
+2023-11,Glucometer Lancet,Organization,community member,1,1.0,# of Boxes Distributed (100 per Box)
+2023-12,Glucometer Lancet,Organization,client,1,1.0,# of Boxes Distributed (100 per Box)
+2024-03,Glucometer Lancet,Organization,MHA,1,1.0,# of Boxes Distributed (100 per Box)
+2024-03,Glucometer Lancet,Organization,community member,2,2.0,# of Boxes Distributed (100 per Box)
+2024-04,Glucometer Lancet,Organization,client,1,1.0,# of Boxes Distributed (100 per Box)
+2024-04,Glucometer Lancet,Organization,community member,2,2.0,# of Boxes Distributed (100 per Box)
+2024-06,Glucometer Lancet,Organization,MHA,1,1.0,# of Boxes Distributed (100 per Box)
+2024-07,Glucometer Lancet,Organization,community member,1,1.0,# of Boxes Distributed (100 per Box)
+2024-08,Glucometer Lancet,Organization,MHA,1,1.0,# of Boxes Distributed (100 per Box)
+2024-12,Glucometer Lancet,Organization,client,1,1.0,# of Boxes Distributed (100 per Box)
+2025-02,Glucometer Lancet,Organization,MHA,1,1.0,# of Boxes Distributed (100 per Box)
+2025-03,Glucometer Lancet,Organization,Mendonoma Health Alliance,2,3.0,# of Boxes Distributed (100 per Box)
+2025-03,Glucometer Lancet,Organization,community member,1,1.0,# of Boxes Distributed (100 per Box)
+2025-09,Glucometer Lancet,Organization,MHA,1,1.0,# of Boxes Distributed (100 per Box)
+2025-09,Glucometer Lancet,Organization,community member,1,1.0,# of Boxes Distributed (100 per Box)
+2025-11,Glucometer Lancet,Organization,MHA,1,1.0,# of Boxes Distributed (100 per Box)
+2025-12,Glucometer Lancet,Organization,mha,1,1.0,# of Boxes Distributed (100 per Box)
+2026-02,Glucometer Lancet,Organization,client,1,1.0,# of Boxes Distributed (100 per Box)
+2026-02,Glucometer Lancet,Organization,community member,1,1.0,# of Boxes Distributed (100 per Box)
+2026-05,Glucometer Lancet,Organization,Mendonoma Health Alliance,1,1.0,# of Boxes Distributed (100 per Box)
+2026-06,Glucometer Lancet,Organization,MHA,1,1.0,# of Boxes Distributed (100 per Box)
+2026-06,Glucometer Lancet,Organization,MHA - Main Office,1,1.0,# of Boxes Distributed (100 per Box)
+2026-10,Glucometer Lancet,Organization,Mobile Clinic - Port Rd,1,1.0,# of Boxes Distributed (100 per Box)
+2023-07,Glucometer Lancet,Event,ECM appt.,1,1.0,# of Boxes Distributed (100 per Box)
+2023-07,Glucometer Lancet,Event,screening,1,1.0,# of Boxes Distributed (100 per Box)
+2023-09,Glucometer Lancet,Event,Healthy Living class,1,1.0,# of Boxes Distributed (100 per Box)
+2023-09,Glucometer Lancet,Event,office visit,1,1.0,# of Boxes Distributed (100 per Box)
+2023-11,Glucometer Lancet,Event,MHA walk in,1,1.0,# of Boxes Distributed (100 per Box)
+2023-11,Glucometer Lancet,Event,walk in,1,1.0,# of Boxes Distributed (100 per Box)
+2023-12,Glucometer Lancet,Event,ECM appt.,1,1.0,# of Boxes Distributed (100 per Box)
+2024-03,Glucometer Lancet,Event,MHA walk in,1,1.0,# of Boxes Distributed (100 per Box)
+2024-03,Glucometer Lancet,Event,walk in,2,2.0,# of Boxes Distributed (100 per Box)
+2024-04,Glucometer Lancet,Event,walk in,3,3.0,# of Boxes Distributed (100 per Box)
+2024-06,Glucometer Lancet,Event,MHA walk in,1,1.0,# of Boxes Distributed (100 per Box)
+2024-07,Glucometer Lancet,Event,walk in,1,1.0,# of Boxes Distributed (100 per Box)
+2024-08,Glucometer Lancet,Event,MHA walk in,1,1.0,# of Boxes Distributed (100 per Box)
+2024-12,Glucometer Lancet,Event,walk in,1,1.0,# of Boxes Distributed (100 per Box)
+2025-02,Glucometer Lancet,Event,walk in,1,1.0,# of Boxes Distributed (100 per Box)
+2025-03,Glucometer Lancet,Event,Mobile Clinic,1,2.0,# of Boxes Distributed (100 per Box)
+2025-03,Glucometer Lancet,Event,drop-in,1,1.0,# of Boxes Distributed (100 per Box)
+2025-03,Glucometer Lancet,Event,walk in,1,1.0,# of Boxes Distributed (100 per Box)
+2025-09,Glucometer Lancet,Event,Unknown,1,1.0,# of Boxes Distributed (100 per Box)
+2025-09,Glucometer Lancet,Event,walk in,1,1.0,# of Boxes Distributed (100 per Box)
+2025-11,Glucometer Lancet,Event,walk in,1,1.0,# of Boxes Distributed (100 per Box)
+2025-12,Glucometer Lancet,Event,client,1,1.0,# of Boxes Distributed (100 per Box)
+2026-02,Glucometer Lancet,Event,ECM appt.,1,1.0,# of Boxes Distributed (100 per Box)
+2026-02,Glucometer Lancet,Event,walk in,1,1.0,# of Boxes Distributed (100 per Box)
+2026-05,Glucometer Lancet,Event,Drop - In,1,1.0,# of Boxes Distributed (100 per Box)
+2026-06,Glucometer Lancet,Event,Care Coordination,1,1.0,# of Boxes Distributed (100 per Box)
+2026-06,Glucometer Lancet,Event,client,1,1.0,# of Boxes Distributed (100 per Box)
+2026-10,Glucometer Lancet,Event,Unknown,1,1.0,# of Boxes Distributed (100 per Box)
+2023-07,Glucometer Test Strip,(all),(all),2,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-09,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-11,Glucometer Test Strip,(all),(all),2,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-12,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-03,Glucometer Test Strip,(all),(all),4,4.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-04,Glucometer Test Strip,(all),(all),3,3.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-06,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-07,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-08,Glucometer Test Strip,(all),(all),2,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-09,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-10,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-11,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-12,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-02,Glucometer Test Strip,(all),(all),2,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-03,Glucometer Test Strip,(all),(all),3,4.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-04,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-05,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-06,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-07,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-08,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-09,Glucometer Test Strip,(all),(all),3,4.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-11,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-12,Glucometer Test Strip,(all),(all),2,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-02,Glucometer Test Strip,(all),(all),2,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-03,Glucometer Test Strip,(all),(all),1,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-05,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-06,Glucometer Test Strip,(all),(all),3,3.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-07,Glucometer Test Strip,(all),(all),2,3.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-08,Glucometer Test Strip,(all),(all),1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-10,Glucometer Test Strip,(all),(all),2,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-07,Glucometer Test Strip,Organization,client,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-07,Glucometer Test Strip,Organization,community member,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-09,Glucometer Test Strip,Organization,community member,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-11,Glucometer Test Strip,Organization,MHA,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-11,Glucometer Test Strip,Organization,community member,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-12,Glucometer Test Strip,Organization,client,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-03,Glucometer Test Strip,Organization,MHA,2,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-03,Glucometer Test Strip,Organization,community member,2,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-04,Glucometer Test Strip,Organization,client,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-04,Glucometer Test Strip,Organization,community member,2,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-06,Glucometer Test Strip,Organization,MHA,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-07,Glucometer Test Strip,Organization,community member,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-08,Glucometer Test Strip,Organization,MHA,2,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-09,Glucometer Test Strip,Organization,client,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-10,Glucometer Test Strip,Organization,community member,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-11,Glucometer Test Strip,Organization,client,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-12,Glucometer Test Strip,Organization,client,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-02,Glucometer Test Strip,Organization,MHA,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-02,Glucometer Test Strip,Organization,client,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-03,Glucometer Test Strip,Organization,Mendonoma Health Alliance,2,3.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-03,Glucometer Test Strip,Organization,community member,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-04,Glucometer Test Strip,Organization,Community Member,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-05,Glucometer Test Strip,Organization,Mendonoma Health Alliance,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-06,Glucometer Test Strip,Organization,MHA,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-07,Glucometer Test Strip,Organization,client,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-08,Glucometer Test Strip,Organization,Mendonoma Health Alliance,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-09,Glucometer Test Strip,Organization,MHA,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-09,Glucometer Test Strip,Organization,Mendonoma Health Alliance,1,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-09,Glucometer Test Strip,Organization,community member,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-11,Glucometer Test Strip,Organization,MHA,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-12,Glucometer Test Strip,Organization,community member,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-12,Glucometer Test Strip,Organization,mha,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-02,Glucometer Test Strip,Organization,client,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-02,Glucometer Test Strip,Organization,community member,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-03,Glucometer Test Strip,Organization,Mendonoma Health Alliance,1,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-05,Glucometer Test Strip,Organization,MHA,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-06,Glucometer Test Strip,Organization,MHA,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-06,Glucometer Test Strip,Organization,MHA - Main Office,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-06,Glucometer Test Strip,Organization,Mobile Clinic - Port Rd,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-07,Glucometer Test Strip,Organization,Locals,1,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-07,Glucometer Test Strip,Organization,MHA,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-08,Glucometer Test Strip,Organization,Woman,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-10,Glucometer Test Strip,Organization,Mobile Clinic - Port Rd,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-10,Glucometer Test Strip,Organization,Unknown,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-07,Glucometer Test Strip,Event,ECM appt.,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-07,Glucometer Test Strip,Event,screening,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-09,Glucometer Test Strip,Event,office visit,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-11,Glucometer Test Strip,Event,MHA walk in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-11,Glucometer Test Strip,Event,walk in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-12,Glucometer Test Strip,Event,ECM appt.,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-03,Glucometer Test Strip,Event,MHA walk in,2,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-03,Glucometer Test Strip,Event,walk in,2,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-04,Glucometer Test Strip,Event,walk in,3,3.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-06,Glucometer Test Strip,Event,MHA walk in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-07,Glucometer Test Strip,Event,walk in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-08,Glucometer Test Strip,Event,MHA walk in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-08,Glucometer Test Strip,Event,drop in screening,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-09,Glucometer Test Strip,Event,screening,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-10,Glucometer Test Strip,Event,walk in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-11,Glucometer Test Strip,Event,walk in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2024-12,Glucometer Test Strip,Event,walk in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-02,Glucometer Test Strip,Event,ECM appt.,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-02,Glucometer Test Strip,Event,walk in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-03,Glucometer Test Strip,Event,Mobile Clinic,1,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-03,Glucometer Test Strip,Event,drop-in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-03,Glucometer Test Strip,Event,walk in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-04,Glucometer Test Strip,Event,Unknown,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-05,Glucometer Test Strip,Event,Screening,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-06,Glucometer Test Strip,Event,walk- in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-07,Glucometer Test Strip,Event,walk in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-08,Glucometer Test Strip,Event,Walk-In,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-09,Glucometer Test Strip,Event,Health Screening,1,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-09,Glucometer Test Strip,Event,Unknown,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-09,Glucometer Test Strip,Event,walk in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-11,Glucometer Test Strip,Event,walk in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-12,Glucometer Test Strip,Event,client,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2025-12,Glucometer Test Strip,Event,walk in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-02,Glucometer Test Strip,Event,ECM appt.,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-02,Glucometer Test Strip,Event,walk in,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-03,Glucometer Test Strip,Event,Screening,1,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-05,Glucometer Test Strip,Event,Client,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-06,Glucometer Test Strip,Event,Care Coordination,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-06,Glucometer Test Strip,Event,Walk-up,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-06,Glucometer Test Strip,Event,client,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-07,Glucometer Test Strip,Event,In need,2,3.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-08,Glucometer Test Strip,Event,In need,1,1.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2026-10,Glucometer Test Strip,Event,Unknown,2,2.0,"# of Boxes Distributed (100 per box), # of Boxes Distributed (150 per box)"
+2023-07,Harm Reduction Bag,(all),(all),1,4.0,# of Bags
+2023-08,Harm Reduction Bag,(all),(all),2,5.0,# of Bags
+2023-12,Harm Reduction Bag,(all),(all),1,4.0,# of Bags
+2024-03,Harm Reduction Bag,(all),(all),1,1.0,# of Bags
+2024-05,Harm Reduction Bag,(all),(all),2,6.0,# of Bags
+2024-08,Harm Reduction Bag,(all),(all),1,2.0,# of Bags
+2024-09,Harm Reduction Bag,(all),(all),1,2.0,# of Bags
+2024-10,Harm Reduction Bag,(all),(all),1,2.0,# of Bags
+2025-02,Harm Reduction Bag,(all),(all),2,2.0,# of Bags
+2025-04,Harm Reduction Bag,(all),(all),1,1.0,# of Bags
+2025-06,Harm Reduction Bag,(all),(all),2,5.0,# of Bags
+2025-10,Harm Reduction Bag,(all),(all),3,4.0,# of Bags
+2025-11,Harm Reduction Bag,(all),(all),3,4.0,# of Bags
+2025-12,Harm Reduction Bag,(all),(all),4,5.0,# of Bags
+2026-01,Harm Reduction Bag,(all),(all),1,2.0,# of Bags
+2026-02,Harm Reduction Bag,(all),(all),1,3.0,# of Bags
+2026-03,Harm Reduction Bag,(all),(all),5,9.0,# of Bags
+2026-04,Harm Reduction Bag,(all),(all),5,9.0,# of Bags
+2026-05,Harm Reduction Bag,(all),(all),3,4.0,# of Bags
+2026-07,Harm Reduction Bag,(all),(all),5,8.0,# of Bags
+2026-08,Harm Reduction Bag,(all),(all),2,2.0,# of Bags
+2026-10,Harm Reduction Bag,(all),(all),3,5.0,# of Bags
+2023-07,Harm Reduction Bag,City,Gualala,1,4.0,# of Bags
+2023-08,Harm Reduction Bag,City,Gualala,2,5.0,# of Bags
+2023-12,Harm Reduction Bag,City,Gualala,1,4.0,# of Bags
+2024-03,Harm Reduction Bag,City,Gualala,1,1.0,# of Bags
+2024-05,Harm Reduction Bag,City,Gualala,2,6.0,# of Bags
+2024-08,Harm Reduction Bag,City,Gualala,1,2.0,# of Bags
+2024-09,Harm Reduction Bag,City,- Not Specified -,1,2.0,# of Bags
+2024-10,Harm Reduction Bag,City,Gualala,1,2.0,# of Bags
+2025-02,Harm Reduction Bag,City,Gualala,2,2.0,# of Bags
+2025-04,Harm Reduction Bag,City,Point Arena,1,1.0,# of Bags
+2025-06,Harm Reduction Bag,City,Gualala,2,5.0,# of Bags
+2025-10,Harm Reduction Bag,City,Gualala,2,2.0,# of Bags
+2025-10,Harm Reduction Bag,City,Point Arena,1,2.0,# of Bags
+2025-11,Harm Reduction Bag,City,Gualala,3,4.0,# of Bags
+2025-12,Harm Reduction Bag,City,Gualala,4,5.0,# of Bags
+2026-01,Harm Reduction Bag,City,Gualala,1,2.0,# of Bags
+2026-02,Harm Reduction Bag,City,Gualala,1,3.0,# of Bags
+2026-03,Harm Reduction Bag,City,- Not Specified -,4,7.0,# of Bags
+2026-03,Harm Reduction Bag,City,Gualala,1,2.0,# of Bags
+2026-04,Harm Reduction Bag,City,- Not Specified -,4,8.0,# of Bags
+2026-04,Harm Reduction Bag,City,Gualala,1,1.0,# of Bags
+2026-05,Harm Reduction Bag,City,- Not Specified -,2,3.0,# of Bags
+2026-05,Harm Reduction Bag,City,Gualala,1,1.0,# of Bags
+2026-07,Harm Reduction Bag,City,- Not Specified -,3,5.0,# of Bags
+2026-07,Harm Reduction Bag,City,Gualala,2,3.0,# of Bags
+2026-08,Harm Reduction Bag,City,- Not Specified -,1,1.0,# of Bags
+2026-08,Harm Reduction Bag,City,Gualala,1,1.0,# of Bags
+2026-10,Harm Reduction Bag,City,- Not Specified -,2,4.0,# of Bags
+2026-10,Harm Reduction Bag,City,Gualala,1,1.0,# of Bags
+2026-05,Hygiene Kit,(all),(all),1,1.0,# Distributed
+2026-09,Hygiene Kit,(all),(all),1,1.0,# Distributed
+2026-05,Hygiene Kit,Organization,MHA - Main Office,1,1.0,# Distributed
+2026-09,Hygiene Kit,Organization,Mobile Clinic - Port Rd,1,1.0,# Distributed
+2026-05,Hygiene Kit,Event,Health Screening,1,1.0,# Distributed
+2026-09,Hygiene Kit,Event,Unknown,1,1.0,# Distributed
+2018-09,Lock Bag,(all),(all),4,98.0,# Distributed
+2018-10,Lock Bag,(all),(all),4,82.0,# Distributed
+2019-01,Lock Bag,(all),(all),1,5.0,# Distributed
+2019-07,Lock Bag,(all),(all),1,10.0,# Distributed
+2020-11,Lock Bag,(all),(all),1,3.0,# Distributed
+2021-06,Lock Bag,(all),(all),2,2.0,# Distributed
+2021-08,Lock Bag,(all),(all),3,19.0,# Distributed
+2021-09,Lock Bag,(all),(all),1,8.0,# Distributed
+2022-01,Lock Bag,(all),(all),4,4.0,# Distributed
+2022-04,Lock Bag,(all),(all),1,4.0,# Distributed
+2022-10,Lock Bag,(all),(all),1,1.0,# Distributed
+2023-03,Lock Bag,(all),(all),1,1.0,# Distributed
+2023-04,Lock Bag,(all),(all),1,1.0,# Distributed
+2023-06,Lock Bag,(all),(all),1,1.0,# Distributed
+2023-08,Lock Bag,(all),(all),1,7.0,# Distributed
+2024-05,Lock Bag,(all),(all),1,2.0,# Distributed
+2024-08,Lock Bag,(all),(all),1,1.0,# Distributed
+2025-04,Lock Bag,(all),(all),1,1.0,# Distributed
+2025-05,Lock Bag,(all),(all),1,1.0,# Distributed
+2025-06,Lock Bag,(all),(all),1,1.0,# Distributed
+2025-09,Lock Bag,(all),(all),1,2.0,# Distributed
+2025-11,Lock Bag,(all),(all),2,2.0,# Distributed
+2026-04,Lock Bag,(all),(all),1,2.0,# Distributed
+2026-05,Lock Bag,(all),(all),1,1.0,# Distributed
+2018-09,Lock Bag,Organization,Gualala Veterinary Clinic,1,20.0,# Distributed
+2018-09,Lock Bag,Organization,Point Arena Pharmacy,1,24.0,# Distributed
+2018-09,Lock Bag,Organization,RCMS,2,54.0,# Distributed
+2018-10,Lock Bag,Organization,Action Network (Gualala),1,10.0,# Distributed
+2018-10,Lock Bag,Organization,Coastal Seniors (Gualala),1,27.0,# Distributed
+2018-10,Lock Bag,Organization,Coastal Seniors (PA),1,41.0,# Distributed
+2018-10,Lock Bag,Organization,MHA Office,1,4.0,# Distributed
+2019-01,Lock Bag,Organization,Manchester Elementary School,1,5.0,# Distributed
+2019-07,Lock Bag,Organization,SCIHP Clinic,1,10.0,# Distributed
+2020-11,Lock Bag,Organization,Mendocino County Sheriff,1,3.0,# Distributed
+2021-06,Lock Bag,Organization,client,1,1.0,# Distributed
+2021-06,Lock Bag,Organization,mha,1,1.0,# Distributed
+2021-08,Lock Bag,Organization,Arena Union Elementary School,1,5.0,# Distributed
+2021-08,Lock Bag,Organization,Horicon Elementary,1,8.0,# Distributed
+2021-08,Lock Bag,Organization,community member,1,6.0,# Distributed
+2021-09,Lock Bag,Organization,Point Arena High School,1,8.0,# Distributed
+2022-01,Lock Bag,Organization,community member,3,3.0,# Distributed
+2022-01,Lock Bag,Organization,sheriffs office,1,1.0,# Distributed
+2022-04,Lock Bag,Organization,community member,1,4.0,# Distributed
+2022-10,Lock Bag,Organization,Client,1,1.0,# Distributed
+2023-03,Lock Bag,Organization,CLSD,1,1.0,# Distributed
+2023-04,Lock Bag,Organization,community member,1,1.0,# Distributed
+2023-06,Lock Bag,Organization,11261956JM,1,1.0,# Distributed
+2023-08,Lock Bag,Organization,Rx Take back,1,7.0,# Distributed
+2024-05,Lock Bag,Organization,client,1,2.0,# Distributed
+2024-08,Lock Bag,Organization,MHA,1,1.0,# Distributed
+2025-04,Lock Bag,Organization,RCMS,1,1.0,# Distributed
+2025-05,Lock Bag,Organization,MHA,1,1.0,# Distributed
+2025-06,Lock Bag,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2025-09,Lock Bag,Organization,RCMS,1,2.0,# Distributed
+2025-11,Lock Bag,Organization,95445,2,2.0,# Distributed
+2026-04,Lock Bag,Organization,Mendonoma Health Alliance,1,2.0,# Distributed
+2026-05,Lock Bag,Organization,95459,1,1.0,# Distributed
+2026-09,Mask,(all),(all),1,5.0,Number
+2026-09,Mask,Dropdown,Out of Area,1,5.0,Number
+2022-03,Measuring Cup,(all),(all),1,12.0,# Distributed
+2022-07,Measuring Cup,(all),(all),1,1.0,# Distributed
+2022-10,Measuring Cup,(all),(all),1,146.0,# Distributed
+2023-04,Measuring Cup,(all),(all),1,1.0,# Distributed
+2023-06,Measuring Cup,(all),(all),1,1.0,# Distributed
+2026-02,Measuring Cup,(all),(all),3,4.0,# Distributed
+2026-08,Measuring Cup,(all),(all),1,1.0,# Distributed
+2022-03,Measuring Cup,Organization,SCHIP,1,12.0,# Distributed
+2022-07,Measuring Cup,Organization,Client,1,1.0,# Distributed
+2022-10,Measuring Cup,Organization,School Health Fair,1,146.0,# Distributed
+2023-04,Measuring Cup,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2023-06,Measuring Cup,Organization,community member,1,1.0,# Distributed
+2026-02,Measuring Cup,Organization,Mendonoma Health Alliance,3,4.0,# Distributed
+2026-08,Measuring Cup,Organization,community members,1,1.0,# Distributed
+2022-03,Mrs. Dash,(all),(all),2,16.0,# Distributed
+2022-05,Mrs. Dash,(all),(all),2,8.0,# Distributed
+2022-06,Mrs. Dash,(all),(all),3,15.0,# Distributed
+2022-07,Mrs. Dash,(all),(all),1,6.0,# Distributed
+2022-08,Mrs. Dash,(all),(all),1,2.0,# Distributed
+2022-09,Mrs. Dash,(all),(all),1,6.0,# Distributed
+2022-10,Mrs. Dash,(all),(all),1,6.0,# Distributed
+2023-03,Mrs. Dash,(all),(all),1,6.0,# Distributed
+2023-06,Mrs. Dash,(all),(all),1,2.0,# Distributed
+2023-07,Mrs. Dash,(all),(all),1,5.0,# Distributed
+2024-01,Mrs. Dash,(all),(all),2,5.0,# Distributed
+2024-07,Mrs. Dash,(all),(all),1,1.0,# Distributed
+2022-03,Mrs. Dash,Organization,-,1,4.0,# Distributed
+2022-03,Mrs. Dash,Organization,SCHIP,1,12.0,# Distributed
+2022-05,Mrs. Dash,Organization,Client - Susan Marie-Hagen,1,3.0,# Distributed
+2022-05,Mrs. Dash,Organization,Community member,1,5.0,# Distributed
+2022-06,Mrs. Dash,Organization,Community member,1,5.0,# Distributed
+2022-06,Mrs. Dash,Organization,client,1,5.0,# Distributed
+2022-06,Mrs. Dash,Organization,community member,1,5.0,# Distributed
+2022-07,Mrs. Dash,Organization,Client,1,6.0,# Distributed
+2022-08,Mrs. Dash,Organization,Community member,1,2.0,# Distributed
+2022-09,Mrs. Dash,Organization,client,1,6.0,# Distributed
+2022-10,Mrs. Dash,Organization,client,1,6.0,# Distributed
+2023-03,Mrs. Dash,Organization,95445,1,6.0,# Distributed
+2023-06,Mrs. Dash,Organization,community,1,2.0,# Distributed
+2023-07,Mrs. Dash,Organization,community member,1,5.0,# Distributed
+2024-01,Mrs. Dash,Organization,client,1,2.0,# Distributed
+2024-01,Mrs. Dash,Organization,community member,1,3.0,# Distributed
+2024-07,Mrs. Dash,Organization,MHA,1,1.0,# Distributed
+2019-09,Narcan,(all),(all),1,3.0,# Boxes Distributed (2 per box)
+2019-10,Narcan,(all),(all),1,7.0,# Boxes Distributed (2 per box)
+2019-11,Narcan,(all),(all),1,2.0,# Boxes Distributed (2 per box)
+2020-01,Narcan,(all),(all),2,24.0,# Boxes Distributed (2 per box)
+2020-06,Narcan,(all),(all),1,6.0,# Boxes Distributed (2 per box)
+2020-10,Narcan,(all),(all),3,4.0,# Boxes Distributed (2 per box)
+2020-11,Narcan,(all),(all),3,8.0,# Boxes Distributed (2 per box)
+2020-12,Narcan,(all),(all),2,14.0,# Boxes Distributed (2 per box)
+2021-02,Narcan,(all),(all),1,1.0,# Boxes Distributed (2 per box)
+2021-03,Narcan,(all),(all),13,28.0,# Boxes Distributed (2 per box)
+2021-04,Narcan,(all),(all),7,14.0,# Boxes Distributed (2 per box)
+2021-05,Narcan,(all),(all),30,31.0,# Boxes Distributed (2 per box)
+2021-06,Narcan,(all),(all),1,2.0,# Boxes Distributed (2 per box)
+2021-07,Narcan,(all),(all),20,47.0,# Boxes Distributed (2 per box)
+2021-08,Narcan,(all),(all),9,263.0,# Boxes Distributed (2 per box)
+2021-09,Narcan,(all),(all),13,21.0,# Boxes Distributed (2 per box)
+2021-10,Narcan,(all),(all),6,7.0,# Boxes Distributed (2 per box)
+2021-11,Narcan,(all),(all),8,16.0,# Boxes Distributed (2 per box)
+2021-12,Narcan,(all),(all),4,4.0,# Boxes Distributed (2 per box)
+2022-01,Narcan,(all),(all),6,26.0,# Boxes Distributed (2 per box)
+2022-02,Narcan,(all),(all),3,3.0,# Boxes Distributed (2 per box)
+2022-03,Narcan,(all),(all),15,27.0,# Boxes Distributed (2 per box)
+2022-04,Narcan,(all),(all),11,34.0,# Boxes Distributed (2 per box)
+2022-06,Narcan,(all),(all),3,7.0,# Boxes Distributed (2 per box)
+2022-07,Narcan,(all),(all),2,17.0,# Boxes Distributed (2 per box)
+2022-08,Narcan,(all),(all),5,62.0,# Boxes Distributed (2 per box)
+2022-09,Narcan,(all),(all),4,4.0,# Boxes Distributed (2 per box)
+2022-10,Narcan,(all),(all),12,39.0,# Boxes Distributed (2 per box)
+2022-11,Narcan,(all),(all),24,24.0,# Boxes Distributed (2 per box)
+2022-12,Narcan,(all),(all),23,36.0,# Boxes Distributed (2 per box)
+2023-02,Narcan,(all),(all),3,5.0,# Boxes Distributed (2 per box)
+2023-03,Narcan,(all),(all),23,69.0,# Boxes Distributed (2 per box)
+2023-04,Narcan,(all),(all),38,44.0,# Boxes Distributed (2 per box)
+2023-05,Narcan,(all),(all),2,3.0,# Boxes Distributed (2 per box)
+2023-06,Narcan,(all),(all),14,15.0,# Boxes Distributed (2 per box)
+2023-07,Narcan,(all),(all),32,32.0,# Boxes Distributed (2 per box)
+2023-08,Narcan,(all),(all),18,22.0,# Boxes Distributed (2 per box)
+2023-09,Narcan,(all),(all),37,60.0,# Boxes Distributed (2 per box)
+2023-10,Narcan,(all),(all),17,71.0,# Boxes Distributed (2 per box)
+2023-11,Narcan,(all),(all),34,41.0,# Boxes Distributed (2 per box)
+2023-12,Narcan,(all),(all),2,13.0,# Boxes Distributed (2 per box)
+2024-01,Narcan,(all),(all),20,43.0,# Boxes Distributed (2 per box)
+2024-02,Narcan,(all),(all),18,25.0,# Boxes Distributed (2 per box)
+2024-03,Narcan,(all),(all),23,34.0,# Boxes Distributed (2 per box)
+2024-04,Narcan,(all),(all),4,6.0,# Boxes Distributed (2 per box)
+2024-05,Narcan,(all),(all),1,6.0,# Boxes Distributed (2 per box)
+2024-06,Narcan,(all),(all),2,2.0,# Boxes Distributed (2 per box)
+2024-07,Narcan,(all),(all),17,18.0,# Boxes Distributed (2 per box)
+2024-08,Narcan,(all),(all),23,31.0,# Boxes Distributed (2 per box)
+2024-09,Narcan,(all),(all),3,3.0,# Boxes Distributed (2 per box)
+2024-10,Narcan,(all),(all),12,49.0,# Boxes Distributed (2 per box)
+2024-11,Narcan,(all),(all),4,18.0,# Boxes Distributed (2 per box)
+2025-01,Narcan,(all),(all),1,4.0,# Boxes Distributed (2 per box)
+2025-02,Narcan,(all),(all),19,22.0,# Boxes Distributed (2 per box)
+2025-03,Narcan,(all),(all),42,71.0,# Boxes Distributed (2 per box)
+2025-04,Narcan,(all),(all),6,13.0,# Boxes Distributed (2 per box)
+2025-05,Narcan,(all),(all),10,16.0,# Boxes Distributed (2 per box)
+2025-06,Narcan,(all),(all),13,23.0,# Boxes Distributed (2 per box)
+2025-07,Narcan,(all),(all),8,31.0,# Boxes Distributed (2 per box)
+2025-08,Narcan,(all),(all),32,80.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,(all),(all),18,124.0,# Boxes Distributed (2 per box)
+2025-10,Narcan,(all),(all),7,55.0,# Boxes Distributed (2 per box)
+2025-11,Narcan,(all),(all),9,48.0,# Boxes Distributed (2 per box)
+2025-12,Narcan,(all),(all),7,39.0,# Boxes Distributed (2 per box)
+2026-01,Narcan,(all),(all),16,32.0,# Boxes Distributed (2 per box)
+2026-02,Narcan,(all),(all),11,34.0,# Boxes Distributed (2 per box)
+2026-03,Narcan,(all),(all),8,48.0,# Boxes Distributed (2 per box)
+2026-04,Narcan,(all),(all),18,51.0,# Boxes Distributed (2 per box)
+2026-05,Narcan,(all),(all),16,26.0,# Boxes Distributed (2 per box)
+2026-06,Narcan,(all),(all),7,23.0,# Boxes Distributed (2 per box)
+2026-07,Narcan,(all),(all),4,22.0,# Boxes Distributed (2 per box)
+2026-08,Narcan,(all),(all),14,33.0,# Boxes Distributed (2 per box)
+2026-09,Narcan,(all),(all),17,29.0,# Boxes Distributed (2 per box)
+2026-10,Narcan,(all),(all),25,86.0,# Boxes Distributed (2 per box)
+2019-09,Narcan,City,Unknown,1,3.0,# Boxes Distributed (2 per box)
+2019-10,Narcan,City,Unknown,1,7.0,# Boxes Distributed (2 per box)
+2019-11,Narcan,City,Unknown,1,2.0,# Boxes Distributed (2 per box)
+2020-01,Narcan,City,Unknown,2,24.0,# Boxes Distributed (2 per box)
+2020-06,Narcan,City,Unknown,1,6.0,# Boxes Distributed (2 per box)
+2020-10,Narcan,City,Unknown,3,4.0,# Boxes Distributed (2 per box)
+2020-11,Narcan,City,Unknown,3,8.0,# Boxes Distributed (2 per box)
+2020-12,Narcan,City,Unknown,2,14.0,# Boxes Distributed (2 per box)
+2021-02,Narcan,City,Unknown,1,1.0,# Boxes Distributed (2 per box)
+2021-03,Narcan,City,Annapolis,2,2.0,# Boxes Distributed (2 per box)
+2021-03,Narcan,City,Cazadero,1,1.0,# Boxes Distributed (2 per box)
+2021-03,Narcan,City,Gualala,5,7.0,# Boxes Distributed (2 per box)
+2021-03,Narcan,City,Manchester,2,2.0,# Boxes Distributed (2 per box)
+2021-03,Narcan,City,Point Arena,1,1.0,# Boxes Distributed (2 per box)
+2021-03,Narcan,City,The Sea Ranch,1,1.0,# Boxes Distributed (2 per box)
+2021-03,Narcan,City,Unknown,1,14.0,# Boxes Distributed (2 per box)
+2021-04,Narcan,City,Annapolis,1,1.0,# Boxes Distributed (2 per box)
+2021-04,Narcan,City,Gualala,3,5.0,# Boxes Distributed (2 per box)
+2021-04,Narcan,City,Manchester,1,1.0,# Boxes Distributed (2 per box)
+2021-04,Narcan,City,Point Arena,1,5.0,# Boxes Distributed (2 per box)
+2021-04,Narcan,City,Stewarts Point,1,2.0,# Boxes Distributed (2 per box)
+2021-05,Narcan,City,Annapolis,1,1.0,# Boxes Distributed (2 per box)
+2021-05,Narcan,City,Gualala,26,27.0,# Boxes Distributed (2 per box)
+2021-05,Narcan,City,The Sea Ranch,2,2.0,# Boxes Distributed (2 per box)
+2021-05,Narcan,City,Timber Cove,1,1.0,# Boxes Distributed (2 per box)
+2021-06,Narcan,City,Gualala,1,2.0,# Boxes Distributed (2 per box)
+2021-07,Narcan,City,Gualala,10,34.0,# Boxes Distributed (2 per box)
+2021-07,Narcan,City,Manchester,1,1.0,# Boxes Distributed (2 per box)
+2021-07,Narcan,City,Outside Service Area,2,2.0,# Boxes Distributed (2 per box)
+2021-07,Narcan,City,Point Arena,3,6.0,# Boxes Distributed (2 per box)
+2021-07,Narcan,City,The Sea Ranch,3,3.0,# Boxes Distributed (2 per box)
+2021-07,Narcan,City,Timber Cove,1,1.0,# Boxes Distributed (2 per box)
+2021-08,Narcan,City,Annapolis,1,6.0,# Boxes Distributed (2 per box)
+2021-08,Narcan,City,Gualala,4,16.0,# Boxes Distributed (2 per box)
+2021-08,Narcan,City,Outside Service Area,1,226.0,# Boxes Distributed (2 per box)
+2021-08,Narcan,City,Point Arena,2,14.0,# Boxes Distributed (2 per box)
+2021-08,Narcan,City,The Sea Ranch,1,1.0,# Boxes Distributed (2 per box)
+2021-09,Narcan,City,Cazadero,1,1.0,# Boxes Distributed (2 per box)
+2021-09,Narcan,City,Gualala,2,3.0,# Boxes Distributed (2 per box)
+2021-09,Narcan,City,Outside Service Area,4,4.0,# Boxes Distributed (2 per box)
+2021-09,Narcan,City,Point Arena,6,13.0,# Boxes Distributed (2 per box)
+2021-10,Narcan,City,Gualala,2,2.0,# Boxes Distributed (2 per box)
+2021-10,Narcan,City,Outside Service Area,1,2.0,# Boxes Distributed (2 per box)
+2021-10,Narcan,City,Point Arena,3,3.0,# Boxes Distributed (2 per box)
+2021-11,Narcan,City,Gualala,1,8.0,# Boxes Distributed (2 per box)
+2021-11,Narcan,City,Manchester,1,1.0,# Boxes Distributed (2 per box)
+2021-11,Narcan,City,Outside Service Area,3,4.0,# Boxes Distributed (2 per box)
+2021-11,Narcan,City,Point Arena,1,1.0,# Boxes Distributed (2 per box)
+2021-11,Narcan,City,The Sea Ranch,1,1.0,# Boxes Distributed (2 per box)
+2021-11,Narcan,City,Timber Cove,1,1.0,# Boxes Distributed (2 per box)
+2021-12,Narcan,City,Gualala,2,2.0,# Boxes Distributed (2 per box)
+2021-12,Narcan,City,Manchester,1,1.0,# Boxes Distributed (2 per box)
+2021-12,Narcan,City,Outside Service Area,1,1.0,# Boxes Distributed (2 per box)
+2022-01,Narcan,City,Gualala,3,3.0,# Boxes Distributed (2 per box)
+2022-01,Narcan,City,Outside Service Area,2,18.0,# Boxes Distributed (2 per box)
+2022-01,Narcan,City,Point Arena,1,5.0,# Boxes Distributed (2 per box)
+2022-02,Narcan,City,Annapolis,1,1.0,# Boxes Distributed (2 per box)
+2022-02,Narcan,City,Gualala,1,1.0,# Boxes Distributed (2 per box)
+2022-02,Narcan,City,Outside Service Area,1,1.0,# Boxes Distributed (2 per box)
+2022-03,Narcan,City,- Not Specified -,1,1.0,# Boxes Distributed (2 per box)
+2022-03,Narcan,City,Gualala,7,7.0,# Boxes Distributed (2 per box)
+2022-03,Narcan,City,Manchester,2,2.0,# Boxes Distributed (2 per box)
+2022-03,Narcan,City,Point Arena,4,16.0,# Boxes Distributed (2 per box)
+2022-03,Narcan,City,The Sea Ranch,1,1.0,# Boxes Distributed (2 per box)
+2022-04,Narcan,City,- Not Specified -,2,25.0,# Boxes Distributed (2 per box)
+2022-04,Narcan,City,Gualala,7,7.0,# Boxes Distributed (2 per box)
+2022-04,Narcan,City,Outside Service Area,1,1.0,# Boxes Distributed (2 per box)
+2022-04,Narcan,City,The Sea Ranch,1,1.0,# Boxes Distributed (2 per box)
+2022-06,Narcan,City,Gualala,1,1.0,# Boxes Distributed (2 per box)
+2022-06,Narcan,City,Point Arena,2,6.0,# Boxes Distributed (2 per box)
+2022-07,Narcan,City,Gualala,1,5.0,# Boxes Distributed (2 per box)
+2022-07,Narcan,City,Outside Service Area,1,12.0,# Boxes Distributed (2 per box)
+2022-08,Narcan,City,Gualala,1,1.0,# Boxes Distributed (2 per box)
+2022-08,Narcan,City,Point Arena,3,25.0,# Boxes Distributed (2 per box)
+2022-08,Narcan,City,The Sea Ranch,1,36.0,# Boxes Distributed (2 per box)
+2022-09,Narcan,City,Annapolis,1,1.0,# Boxes Distributed (2 per box)
+2022-09,Narcan,City,Cazadero,1,1.0,# Boxes Distributed (2 per box)
+2022-09,Narcan,City,The Sea Ranch,2,2.0,# Boxes Distributed (2 per box)
+2022-10,Narcan,City,Cazadero,2,2.0,# Boxes Distributed (2 per box)
+2022-10,Narcan,City,Gualala,1,6.0,# Boxes Distributed (2 per box)
+2022-10,Narcan,City,Manchester,2,2.0,# Boxes Distributed (2 per box)
+2022-10,Narcan,City,Outside Service Area,2,2.0,# Boxes Distributed (2 per box)
+2022-10,Narcan,City,Point Arena,4,26.0,# Boxes Distributed (2 per box)
+2022-10,Narcan,City,Timber Cove,1,1.0,# Boxes Distributed (2 per box)
+2022-11,Narcan,City,Annapolis,2,2.0,# Boxes Distributed (2 per box)
+2022-11,Narcan,City,Cazadero,2,2.0,# Boxes Distributed (2 per box)
+2022-11,Narcan,City,Gualala,11,11.0,# Boxes Distributed (2 per box)
+2022-11,Narcan,City,Manchester,2,2.0,# Boxes Distributed (2 per box)
+2022-11,Narcan,City,Outside Service Area,4,4.0,# Boxes Distributed (2 per box)
+2022-11,Narcan,City,Point Arena,1,1.0,# Boxes Distributed (2 per box)
+2022-11,Narcan,City,The Sea Ranch,2,2.0,# Boxes Distributed (2 per box)
+2022-12,Narcan,City,Cazadero,4,4.0,# Boxes Distributed (2 per box)
+2022-12,Narcan,City,Gualala,7,19.0,# Boxes Distributed (2 per box)
+2022-12,Narcan,City,Outside Service Area,8,8.0,# Boxes Distributed (2 per box)
+2022-12,Narcan,City,Point Arena,4,5.0,# Boxes Distributed (2 per box)
+2023-02,Narcan,City,Cazadero,1,2.0,# Boxes Distributed (2 per box)
+2023-02,Narcan,City,Gualala,1,1.0,# Boxes Distributed (2 per box)
+2023-02,Narcan,City,Point Arena,1,2.0,# Boxes Distributed (2 per box)
+2023-03,Narcan,City,- Not Specified -,2,13.0,# Boxes Distributed (2 per box)
+2023-03,Narcan,City,Annapolis,2,2.0,# Boxes Distributed (2 per box)
+2023-03,Narcan,City,Gualala,15,42.0,# Boxes Distributed (2 per box)
+2023-03,Narcan,City,Manchester,1,1.0,# Boxes Distributed (2 per box)
+2023-03,Narcan,City,Outside Service Area,1,1.0,# Boxes Distributed (2 per box)
+2023-03,Narcan,City,Point Arena,2,10.0,# Boxes Distributed (2 per box)
+2023-04,Narcan,City,- Not Specified -,14,14.0,# Boxes Distributed (2 per box)
+2023-04,Narcan,City,Gualala,5,7.0,# Boxes Distributed (2 per box)
+2023-04,Narcan,City,Manchester,1,1.0,# Boxes Distributed (2 per box)
+2023-04,Narcan,City,Point Arena,15,19.0,# Boxes Distributed (2 per box)
+2023-04,Narcan,City,The Sea Ranch,2,2.0,# Boxes Distributed (2 per box)
+2023-04,Narcan,City,Unknown,1,1.0,# Boxes Distributed (2 per box)
+2023-05,Narcan,City,Gualala,2,3.0,# Boxes Distributed (2 per box)
+2023-06,Narcan,City,Gualala,10,11.0,# Boxes Distributed (2 per box)
+2023-06,Narcan,City,Manchester,2,2.0,# Boxes Distributed (2 per box)
+2023-06,Narcan,City,Outside Service Area,1,1.0,# Boxes Distributed (2 per box)
+2023-06,Narcan,City,Point Arena,1,1.0,# Boxes Distributed (2 per box)
+2023-07,Narcan,City,- Not Specified -,1,1.0,# Boxes Distributed (2 per box)
+2023-07,Narcan,City,Annapolis,2,2.0,# Boxes Distributed (2 per box)
+2023-07,Narcan,City,Cazadero,3,3.0,# Boxes Distributed (2 per box)
+2023-07,Narcan,City,Gualala,6,6.0,# Boxes Distributed (2 per box)
+2023-07,Narcan,City,Manchester,1,1.0,# Boxes Distributed (2 per box)
+2023-07,Narcan,City,Outside Service Area,9,9.0,# Boxes Distributed (2 per box)
+2023-07,Narcan,City,Point Arena,3,3.0,# Boxes Distributed (2 per box)
+2023-07,Narcan,City,The Sea Ranch,6,6.0,# Boxes Distributed (2 per box)
+2023-07,Narcan,City,Timber Cove,1,1.0,# Boxes Distributed (2 per box)
+2023-08,Narcan,City,Gualala,4,5.0,# Boxes Distributed (2 per box)
+2023-08,Narcan,City,Outside Service Area,5,5.0,# Boxes Distributed (2 per box)
+2023-08,Narcan,City,Point Arena,1,3.0,# Boxes Distributed (2 per box)
+2023-08,Narcan,City,The Sea Ranch,7,7.0,# Boxes Distributed (2 per box)
+2023-08,Narcan,City,Timber Cove,1,2.0,# Boxes Distributed (2 per box)
+2023-09,Narcan,City,Gualala,14,24.0,# Boxes Distributed (2 per box)
+2023-09,Narcan,City,Manchester,4,4.0,# Boxes Distributed (2 per box)
+2023-09,Narcan,City,Point Arena,16,29.0,# Boxes Distributed (2 per box)
+2023-09,Narcan,City,The Sea Ranch,3,3.0,# Boxes Distributed (2 per box)
+2023-10,Narcan,City,Cazadero,7,7.0,# Boxes Distributed (2 per box)
+2023-10,Narcan,City,Gualala,2,2.0,# Boxes Distributed (2 per box)
+2023-10,Narcan,City,Outside Service Area,5,5.0,# Boxes Distributed (2 per box)
+2023-10,Narcan,City,Point Arena,3,57.0,# Boxes Distributed (2 per box)
+2023-11,Narcan,City,Annapolis,5,5.0,# Boxes Distributed (2 per box)
+2023-11,Narcan,City,Gualala,17,19.0,# Boxes Distributed (2 per box)
+2023-11,Narcan,City,Outside Service Area,2,2.0,# Boxes Distributed (2 per box)
+2023-11,Narcan,City,Point Arena,9,14.0,# Boxes Distributed (2 per box)
+2023-11,Narcan,City,The Sea Ranch,1,1.0,# Boxes Distributed (2 per box)
+2023-12,Narcan,City,Gualala,2,13.0,# Boxes Distributed (2 per box)
+2024-01,Narcan,City,Gualala,4,27.0,# Boxes Distributed (2 per box)
+2024-01,Narcan,City,Manchester,1,1.0,# Boxes Distributed (2 per box)
+2024-01,Narcan,City,Outside Service Area,2,2.0,# Boxes Distributed (2 per box)
+2024-01,Narcan,City,Point Arena,5,5.0,# Boxes Distributed (2 per box)
+2024-01,Narcan,City,The Sea Ranch,8,8.0,# Boxes Distributed (2 per box)
+2024-02,Narcan,City,- Not Specified -,1,2.0,# Boxes Distributed (2 per box)
+2024-02,Narcan,City,Annapolis,2,2.0,# Boxes Distributed (2 per box)
+2024-02,Narcan,City,Gualala,5,10.0,# Boxes Distributed (2 per box)
+2024-02,Narcan,City,Outside Service Area,2,2.0,# Boxes Distributed (2 per box)
+2024-02,Narcan,City,Point Arena,2,3.0,# Boxes Distributed (2 per box)
+2024-02,Narcan,City,The Sea Ranch,6,6.0,# Boxes Distributed (2 per box)
+2024-03,Narcan,City,Annapolis,1,1.0,# Boxes Distributed (2 per box)
+2024-03,Narcan,City,Gualala,13,13.0,# Boxes Distributed (2 per box)
+2024-03,Narcan,City,Manchester,1,1.0,# Boxes Distributed (2 per box)
+2024-03,Narcan,City,Point Arena,7,18.0,# Boxes Distributed (2 per box)
+2024-03,Narcan,City,The Sea Ranch,1,1.0,# Boxes Distributed (2 per box)
+2024-04,Narcan,City,Gualala,2,4.0,# Boxes Distributed (2 per box)
+2024-04,Narcan,City,The Sea Ranch,2,2.0,# Boxes Distributed (2 per box)
+2024-05,Narcan,City,Gualala,1,6.0,# Boxes Distributed (2 per box)
+2024-06,Narcan,City,Gualala,1,1.0,# Boxes Distributed (2 per box)
+2024-06,Narcan,City,The Sea Ranch,1,1.0,# Boxes Distributed (2 per box)
+2024-07,Narcan,City,Gualala,2,2.0,# Boxes Distributed (2 per box)
+2024-07,Narcan,City,Outside Service Area,1,2.0,# Boxes Distributed (2 per box)
+2024-07,Narcan,City,The Sea Ranch,13,13.0,# Boxes Distributed (2 per box)
+2024-07,Narcan,City,Timber Cove,1,1.0,# Boxes Distributed (2 per box)
+2024-08,Narcan,City,Annapolis,1,2.0,# Boxes Distributed (2 per box)
+2024-08,Narcan,City,Gualala,9,13.0,# Boxes Distributed (2 per box)
+2024-08,Narcan,City,Outside Service Area,1,2.0,# Boxes Distributed (2 per box)
+2024-08,Narcan,City,Point Arena,9,11.0,# Boxes Distributed (2 per box)
+2024-08,Narcan,City,The Sea Ranch,3,3.0,# Boxes Distributed (2 per box)
+2024-09,Narcan,City,Point Arena,3,3.0,# Boxes Distributed (2 per box)
+2024-10,Narcan,City,Annapolis,5,5.0,# Boxes Distributed (2 per box)
+2024-10,Narcan,City,Cazadero,1,1.0,# Boxes Distributed (2 per box)
+2024-10,Narcan,City,Gualala,2,26.0,# Boxes Distributed (2 per box)
+2024-10,Narcan,City,Manchester,1,1.0,# Boxes Distributed (2 per box)
+2024-10,Narcan,City,Point Arena,3,16.0,# Boxes Distributed (2 per box)
+2024-11,Narcan,City,Point Arena,3,17.0,# Boxes Distributed (2 per box)
+2024-11,Narcan,City,The Sea Ranch,1,1.0,# Boxes Distributed (2 per box)
+2025-01,Narcan,City,Point Arena,1,4.0,# Boxes Distributed (2 per box)
+2025-02,Narcan,City,Gualala,5,6.0,# Boxes Distributed (2 per box)
+2025-02,Narcan,City,Point Arena,10,12.0,# Boxes Distributed (2 per box)
+2025-02,Narcan,City,The Sea Ranch,4,4.0,# Boxes Distributed (2 per box)
+2025-03,Narcan,City,- Not Specified -,4,4.0,# Boxes Distributed (2 per box)
+2025-03,Narcan,City,Annapolis,2,2.0,# Boxes Distributed (2 per box)
+2025-03,Narcan,City,Cazadero,10,10.0,# Boxes Distributed (2 per box)
+2025-03,Narcan,City,Gualala,13,30.0,# Boxes Distributed (2 per box)
+2025-03,Narcan,City,Manchester,2,3.0,# Boxes Distributed (2 per box)
+2025-03,Narcan,City,Outside Service Area,1,1.0,# Boxes Distributed (2 per box)
+2025-03,Narcan,City,Point Arena,5,16.0,# Boxes Distributed (2 per box)
+2025-03,Narcan,City,The Sea Ranch,3,3.0,# Boxes Distributed (2 per box)
+2025-03,Narcan,City,Timber Cove,2,2.0,# Boxes Distributed (2 per box)
+2025-04,Narcan,City,Gualala,5,5.0,# Boxes Distributed (2 per box)
+2025-04,Narcan,City,Point Arena,1,8.0,# Boxes Distributed (2 per box)
+2025-05,Narcan,City,Annapolis,1,5.0,# Boxes Distributed (2 per box)
+2025-05,Narcan,City,Gualala,1,2.0,# Boxes Distributed (2 per box)
+2025-05,Narcan,City,Point Arena,2,3.0,# Boxes Distributed (2 per box)
+2025-05,Narcan,City,The Sea Ranch,6,6.0,# Boxes Distributed (2 per box)
+2025-06,Narcan,City,Cazadero,2,2.0,# Boxes Distributed (2 per box)
+2025-06,Narcan,City,Gualala,4,8.0,# Boxes Distributed (2 per box)
+2025-06,Narcan,City,Outside Service Area,1,1.0,# Boxes Distributed (2 per box)
+2025-06,Narcan,City,Point Arena,5,11.0,# Boxes Distributed (2 per box)
+2025-06,Narcan,City,The Sea Ranch,1,1.0,# Boxes Distributed (2 per box)
+2025-07,Narcan,City,- Not Specified -,4,10.0,# Boxes Distributed (2 per box)
+2025-07,Narcan,City,Gualala,1,2.0,# Boxes Distributed (2 per box)
+2025-07,Narcan,City,Point Arena,2,7.0,# Boxes Distributed (2 per box)
+2025-07,Narcan,City,Stewarts Point,1,12.0,# Boxes Distributed (2 per box)
+2025-08,Narcan,City,Gualala,4,38.0,# Boxes Distributed (2 per box)
+2025-08,Narcan,City,Manchester,5,5.0,# Boxes Distributed (2 per box)
+2025-08,Narcan,City,Outside Service Area,3,3.0,# Boxes Distributed (2 per box)
+2025-08,Narcan,City,Point Arena,20,34.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,City,Gualala,3,32.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,City,Manchester,2,12.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,City,Point Arena,11,67.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,City,Stewarts Point,2,13.0,# Boxes Distributed (2 per box)
+2025-10,Narcan,City,- Not Specified -,1,6.0,# Boxes Distributed (2 per box)
+2025-10,Narcan,City,Gualala,2,19.0,# Boxes Distributed (2 per box)
+2025-10,Narcan,City,Point Arena,4,30.0,# Boxes Distributed (2 per box)
+2025-11,Narcan,City,- Not Specified -,3,3.0,# Boxes Distributed (2 per box)
+2025-11,Narcan,City,Gualala,3,31.0,# Boxes Distributed (2 per box)
+2025-11,Narcan,City,Point Arena,2,11.0,# Boxes Distributed (2 per box)
+2025-11,Narcan,City,Stewarts Point,1,3.0,# Boxes Distributed (2 per box)
+2025-12,Narcan,City,- Not Specified -,2,10.0,# Boxes Distributed (2 per box)
+2025-12,Narcan,City,Gualala,1,18.0,# Boxes Distributed (2 per box)
+2025-12,Narcan,City,Manchester,2,4.0,# Boxes Distributed (2 per box)
+2025-12,Narcan,City,Point Arena,2,7.0,# Boxes Distributed (2 per box)
+2026-01,Narcan,City,Annapolis,2,2.0,# Boxes Distributed (2 per box)
+2026-01,Narcan,City,Gualala,8,8.0,# Boxes Distributed (2 per box)
+2026-01,Narcan,City,Point Arena,5,21.0,# Boxes Distributed (2 per box)
+2026-01,Narcan,City,The Sea Ranch,1,1.0,# Boxes Distributed (2 per box)
+2026-02,Narcan,City,- Not Specified -,2,6.0,# Boxes Distributed (2 per box)
+2026-02,Narcan,City,Gualala,4,4.0,# Boxes Distributed (2 per box)
+2026-02,Narcan,City,Manchester,1,2.0,# Boxes Distributed (2 per box)
+2026-02,Narcan,City,Point Arena,3,21.0,# Boxes Distributed (2 per box)
+2026-02,Narcan,City,The Sea Ranch,1,1.0,# Boxes Distributed (2 per box)
+2026-03,Narcan,City,Gualala,3,25.0,# Boxes Distributed (2 per box)
+2026-03,Narcan,City,Point Arena,5,23.0,# Boxes Distributed (2 per box)
+2026-04,Narcan,City,- Not Specified -,1,24.0,# Boxes Distributed (2 per box)
+2026-04,Narcan,City,Gualala,2,7.0,# Boxes Distributed (2 per box)
+2026-04,Narcan,City,Point Arena,2,7.0,# Boxes Distributed (2 per box)
+2026-04,Narcan,City,The Sea Ranch,13,13.0,# Boxes Distributed (2 per box)
+2026-05,Narcan,City,Cazadero,2,2.0,# Boxes Distributed (2 per box)
+2026-05,Narcan,City,Gualala,1,1.0,# Boxes Distributed (2 per box)
+2026-05,Narcan,City,Manchester,1,1.0,# Boxes Distributed (2 per box)
+2026-05,Narcan,City,Outside Service Area,5,5.0,# Boxes Distributed (2 per box)
+2026-05,Narcan,City,Point Arena,4,14.0,# Boxes Distributed (2 per box)
+2026-05,Narcan,City,The Sea Ranch,3,3.0,# Boxes Distributed (2 per box)
+2026-06,Narcan,City,- Not Specified -,1,4.0,# Boxes Distributed (2 per box)
+2026-06,Narcan,City,Point Arena,5,7.0,# Boxes Distributed (2 per box)
+2026-06,Narcan,City,Timber Cove,1,12.0,# Boxes Distributed (2 per box)
+2026-07,Narcan,City,Gualala,4,22.0,# Boxes Distributed (2 per box)
+2026-08,Narcan,City,- Not Specified -,5,8.0,# Boxes Distributed (2 per box)
+2026-08,Narcan,City,Annapolis,2,2.0,# Boxes Distributed (2 per box)
+2026-08,Narcan,City,Gualala,1,7.0,# Boxes Distributed (2 per box)
+2026-08,Narcan,City,Point Arena,3,13.0,# Boxes Distributed (2 per box)
+2026-08,Narcan,City,The Sea Ranch,3,3.0,# Boxes Distributed (2 per box)
+2026-09,Narcan,City,Gualala,4,16.0,# Boxes Distributed (2 per box)
+2026-09,Narcan,City,Point Arena,13,13.0,# Boxes Distributed (2 per box)
+2026-10,Narcan,City,Annapolis,2,2.0,# Boxes Distributed (2 per box)
+2026-10,Narcan,City,Gualala,12,35.0,# Boxes Distributed (2 per box)
+2026-10,Narcan,City,Point Arena,7,45.0,# Boxes Distributed (2 per box)
+2026-10,Narcan,City,The Sea Ranch,4,4.0,# Boxes Distributed (2 per box)
+2019-09,Narcan,Distributed by CLSD?,Unknown,1,3.0,# Boxes Distributed (2 per box)
+2019-10,Narcan,Distributed by CLSD?,Unknown,1,7.0,# Boxes Distributed (2 per box)
+2019-11,Narcan,Distributed by CLSD?,Unknown,1,2.0,# Boxes Distributed (2 per box)
+2020-01,Narcan,Distributed by CLSD?,Unknown,2,24.0,# Boxes Distributed (2 per box)
+2020-06,Narcan,Distributed by CLSD?,Unknown,1,6.0,# Boxes Distributed (2 per box)
+2020-10,Narcan,Distributed by CLSD?,Unknown,3,4.0,# Boxes Distributed (2 per box)
+2020-11,Narcan,Distributed by CLSD?,Unknown,3,8.0,# Boxes Distributed (2 per box)
+2020-12,Narcan,Distributed by CLSD?,Unknown,2,14.0,# Boxes Distributed (2 per box)
+2021-02,Narcan,Distributed by CLSD?,Unknown,1,1.0,# Boxes Distributed (2 per box)
+2021-03,Narcan,Distributed by CLSD?,Unknown,13,28.0,# Boxes Distributed (2 per box)
+2021-04,Narcan,Distributed by CLSD?,Unknown,7,14.0,# Boxes Distributed (2 per box)
+2021-05,Narcan,Distributed by CLSD?,Unknown,30,31.0,# Boxes Distributed (2 per box)
+2021-06,Narcan,Distributed by CLSD?,Unknown,1,2.0,# Boxes Distributed (2 per box)
+2021-07,Narcan,Distributed by CLSD?,Unknown,20,47.0,# Boxes Distributed (2 per box)
+2021-08,Narcan,Distributed by CLSD?,Unknown,9,263.0,# Boxes Distributed (2 per box)
+2021-09,Narcan,Distributed by CLSD?,Unknown,13,21.0,# Boxes Distributed (2 per box)
+2021-10,Narcan,Distributed by CLSD?,Unknown,6,7.0,# Boxes Distributed (2 per box)
+2021-11,Narcan,Distributed by CLSD?,Unknown,8,16.0,# Boxes Distributed (2 per box)
+2021-12,Narcan,Distributed by CLSD?,Unknown,4,4.0,# Boxes Distributed (2 per box)
+2022-01,Narcan,Distributed by CLSD?,Unknown,6,26.0,# Boxes Distributed (2 per box)
+2022-02,Narcan,Distributed by CLSD?,Unknown,3,3.0,# Boxes Distributed (2 per box)
+2022-03,Narcan,Distributed by CLSD?,Unknown,15,27.0,# Boxes Distributed (2 per box)
+2022-04,Narcan,Distributed by CLSD?,Unknown,11,34.0,# Boxes Distributed (2 per box)
+2022-06,Narcan,Distributed by CLSD?,Unknown,3,7.0,# Boxes Distributed (2 per box)
+2022-07,Narcan,Distributed by CLSD?,Unknown,2,17.0,# Boxes Distributed (2 per box)
+2022-08,Narcan,Distributed by CLSD?,Unknown,5,62.0,# Boxes Distributed (2 per box)
+2022-09,Narcan,Distributed by CLSD?,Unknown,4,4.0,# Boxes Distributed (2 per box)
+2022-10,Narcan,Distributed by CLSD?,Unknown,12,39.0,# Boxes Distributed (2 per box)
+2022-11,Narcan,Distributed by CLSD?,Unknown,24,24.0,# Boxes Distributed (2 per box)
+2022-12,Narcan,Distributed by CLSD?,Unknown,23,36.0,# Boxes Distributed (2 per box)
+2023-02,Narcan,Distributed by CLSD?,Unknown,3,5.0,# Boxes Distributed (2 per box)
+2023-03,Narcan,Distributed by CLSD?,Unknown,23,69.0,# Boxes Distributed (2 per box)
+2023-04,Narcan,Distributed by CLSD?,No,5,8.0,# Boxes Distributed (2 per box)
+2023-04,Narcan,Distributed by CLSD?,"No, Yes",1,1.0,# Boxes Distributed (2 per box)
+2023-04,Narcan,Distributed by CLSD?,Unknown,1,4.0,# Boxes Distributed (2 per box)
+2023-04,Narcan,Distributed by CLSD?,Yes,31,31.0,# Boxes Distributed (2 per box)
+2023-05,Narcan,Distributed by CLSD?,No,2,3.0,# Boxes Distributed (2 per box)
+2023-06,Narcan,Distributed by CLSD?,No,1,2.0,# Boxes Distributed (2 per box)
+2023-06,Narcan,Distributed by CLSD?,Yes,13,13.0,# Boxes Distributed (2 per box)
+2023-07,Narcan,Distributed by CLSD?,No,1,1.0,# Boxes Distributed (2 per box)
+2023-07,Narcan,Distributed by CLSD?,Yes,31,31.0,# Boxes Distributed (2 per box)
+2023-08,Narcan,Distributed by CLSD?,No,3,7.0,# Boxes Distributed (2 per box)
+2023-08,Narcan,Distributed by CLSD?,Yes,15,15.0,# Boxes Distributed (2 per box)
+2023-09,Narcan,Distributed by CLSD?,No,3,19.0,# Boxes Distributed (2 per box)
+2023-09,Narcan,Distributed by CLSD?,Yes,34,41.0,# Boxes Distributed (2 per box)
+2023-10,Narcan,Distributed by CLSD?,No,3,57.0,# Boxes Distributed (2 per box)
+2023-10,Narcan,Distributed by CLSD?,Yes,14,14.0,# Boxes Distributed (2 per box)
+2023-11,Narcan,Distributed by CLSD?,No,7,14.0,# Boxes Distributed (2 per box)
+2023-11,Narcan,Distributed by CLSD?,Yes,27,27.0,# Boxes Distributed (2 per box)
+2023-12,Narcan,Distributed by CLSD?,No,2,13.0,# Boxes Distributed (2 per box)
+2024-01,Narcan,Distributed by CLSD?,Yes,20,43.0,# Boxes Distributed (2 per box)
+2024-02,Narcan,Distributed by CLSD?,No,3,10.0,# Boxes Distributed (2 per box)
+2024-02,Narcan,Distributed by CLSD?,Yes,15,15.0,# Boxes Distributed (2 per box)
+2024-03,Narcan,Distributed by CLSD?,No,1,12.0,# Boxes Distributed (2 per box)
+2024-03,Narcan,Distributed by CLSD?,Yes,22,22.0,# Boxes Distributed (2 per box)
+2024-04,Narcan,Distributed by CLSD?,No,4,6.0,# Boxes Distributed (2 per box)
+2024-05,Narcan,Distributed by CLSD?,"No, Yes",1,6.0,# Boxes Distributed (2 per box)
+2024-06,Narcan,Distributed by CLSD?,No,2,2.0,# Boxes Distributed (2 per box)
+2024-07,Narcan,Distributed by CLSD?,Yes,17,18.0,# Boxes Distributed (2 per box)
+2024-08,Narcan,Distributed by CLSD?,No,11,19.0,# Boxes Distributed (2 per box)
+2024-08,Narcan,Distributed by CLSD?,Yes,12,12.0,# Boxes Distributed (2 per box)
+2024-09,Narcan,Distributed by CLSD?,Yes,3,3.0,# Boxes Distributed (2 per box)
+2024-10,Narcan,Distributed by CLSD?,No,2,16.0,# Boxes Distributed (2 per box)
+2024-10,Narcan,Distributed by CLSD?,Yes,10,33.0,# Boxes Distributed (2 per box)
+2024-11,Narcan,Distributed by CLSD?,No,2,5.0,# Boxes Distributed (2 per box)
+2024-11,Narcan,Distributed by CLSD?,"No, Yes",1,12.0,# Boxes Distributed (2 per box)
+2024-11,Narcan,Distributed by CLSD?,Yes,1,1.0,# Boxes Distributed (2 per box)
+2025-01,Narcan,Distributed by CLSD?,No,1,4.0,# Boxes Distributed (2 per box)
+2025-02,Narcan,Distributed by CLSD?,No,2,3.0,# Boxes Distributed (2 per box)
+2025-02,Narcan,Distributed by CLSD?,Yes,17,19.0,# Boxes Distributed (2 per box)
+2025-03,Narcan,Distributed by CLSD?,No,13,42.0,# Boxes Distributed (2 per box)
+2025-03,Narcan,Distributed by CLSD?,Yes,29,29.0,# Boxes Distributed (2 per box)
+2025-04,Narcan,Distributed by CLSD?,No,1,8.0,# Boxes Distributed (2 per box)
+2025-04,Narcan,Distributed by CLSD?,Yes,5,5.0,# Boxes Distributed (2 per box)
+2025-05,Narcan,Distributed by CLSD?,No,4,10.0,# Boxes Distributed (2 per box)
+2025-05,Narcan,Distributed by CLSD?,Yes,6,6.0,# Boxes Distributed (2 per box)
+2025-06,Narcan,Distributed by CLSD?,No,6,16.0,# Boxes Distributed (2 per box)
+2025-06,Narcan,Distributed by CLSD?,Yes,7,7.0,# Boxes Distributed (2 per box)
+2025-07,Narcan,Distributed by CLSD?,No,8,31.0,# Boxes Distributed (2 per box)
+2025-08,Narcan,Distributed by CLSD?,No,12,60.0,# Boxes Distributed (2 per box)
+2025-08,Narcan,Distributed by CLSD?,Yes,20,20.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,Distributed by CLSD?,No,15,121.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,Distributed by CLSD?,Yes,3,3.0,# Boxes Distributed (2 per box)
+2025-10,Narcan,Distributed by CLSD?,No,7,55.0,# Boxes Distributed (2 per box)
+2025-11,Narcan,Distributed by CLSD?,No,9,48.0,# Boxes Distributed (2 per box)
+2025-12,Narcan,Distributed by CLSD?,No,7,39.0,# Boxes Distributed (2 per box)
+2026-01,Narcan,Distributed by CLSD?,No,5,21.0,# Boxes Distributed (2 per box)
+2026-01,Narcan,Distributed by CLSD?,Yes,11,11.0,# Boxes Distributed (2 per box)
+2026-02,Narcan,Distributed by CLSD?,No,7,30.0,# Boxes Distributed (2 per box)
+2026-02,Narcan,Distributed by CLSD?,Yes,4,4.0,# Boxes Distributed (2 per box)
+2026-03,Narcan,Distributed by CLSD?,No,8,48.0,# Boxes Distributed (2 per box)
+2026-04,Narcan,Distributed by CLSD?,No,4,35.0,# Boxes Distributed (2 per box)
+2026-04,Narcan,Distributed by CLSD?,"No, Yes",1,3.0,# Boxes Distributed (2 per box)
+2026-04,Narcan,Distributed by CLSD?,Yes,13,13.0,# Boxes Distributed (2 per box)
+2026-05,Narcan,Distributed by CLSD?,No,5,15.0,# Boxes Distributed (2 per box)
+2026-05,Narcan,Distributed by CLSD?,"No, Yes",1,1.0,# Boxes Distributed (2 per box)
+2026-05,Narcan,Distributed by CLSD?,Yes,10,10.0,# Boxes Distributed (2 per box)
+2026-06,Narcan,Distributed by CLSD?,No,4,20.0,# Boxes Distributed (2 per box)
+2026-06,Narcan,Distributed by CLSD?,"No, Yes",2,2.0,# Boxes Distributed (2 per box)
+2026-06,Narcan,Distributed by CLSD?,Yes,1,1.0,# Boxes Distributed (2 per box)
+2026-07,Narcan,Distributed by CLSD?,No,1,19.0,# Boxes Distributed (2 per box)
+2026-07,Narcan,Distributed by CLSD?,Yes,3,3.0,# Boxes Distributed (2 per box)
+2026-08,Narcan,Distributed by CLSD?,No,8,27.0,# Boxes Distributed (2 per box)
+2026-08,Narcan,Distributed by CLSD?,Yes,6,6.0,# Boxes Distributed (2 per box)
+2026-09,Narcan,Distributed by CLSD?,No,2,3.0,# Boxes Distributed (2 per box)
+2026-09,Narcan,Distributed by CLSD?,Yes,15,26.0,# Boxes Distributed (2 per box)
+2026-10,Narcan,Distributed by CLSD?,No,2,40.0,# Boxes Distributed (2 per box)
+2026-10,Narcan,Distributed by CLSD?,"No, Yes",2,25.0,# Boxes Distributed (2 per box)
+2026-10,Narcan,Distributed by CLSD?,Yes,21,21.0,# Boxes Distributed (2 per box)
+2019-09,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,1,3.0,# Boxes Distributed (2 per box)
+2019-10,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,1,7.0,# Boxes Distributed (2 per box)
+2019-11,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,1,2.0,# Boxes Distributed (2 per box)
+2020-01,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,2,24.0,# Boxes Distributed (2 per box)
+2020-06,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,1,6.0,# Boxes Distributed (2 per box)
+2020-10,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,3,4.0,# Boxes Distributed (2 per box)
+2020-11,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,3,8.0,# Boxes Distributed (2 per box)
+2020-12,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,2,14.0,# Boxes Distributed (2 per box)
+2021-02,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,1,1.0,# Boxes Distributed (2 per box)
+2021-03,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,13,28.0,# Boxes Distributed (2 per box)
+2021-04,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,7,14.0,# Boxes Distributed (2 per box)
+2021-05,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,30,31.0,# Boxes Distributed (2 per box)
+2021-06,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,1,2.0,# Boxes Distributed (2 per box)
+2021-07,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,20,47.0,# Boxes Distributed (2 per box)
+2021-08,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,9,263.0,# Boxes Distributed (2 per box)
+2021-09,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,13,21.0,# Boxes Distributed (2 per box)
+2021-10,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,6,7.0,# Boxes Distributed (2 per box)
+2021-11,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,8,16.0,# Boxes Distributed (2 per box)
+2021-12,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,4,4.0,# Boxes Distributed (2 per box)
+2022-01,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,6,26.0,# Boxes Distributed (2 per box)
+2022-02,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,3,3.0,# Boxes Distributed (2 per box)
+2022-03,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,15,27.0,# Boxes Distributed (2 per box)
+2022-04,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,11,34.0,# Boxes Distributed (2 per box)
+2022-06,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,3,7.0,# Boxes Distributed (2 per box)
+2022-07,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,2,17.0,# Boxes Distributed (2 per box)
+2022-08,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,5,62.0,# Boxes Distributed (2 per box)
+2022-09,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,4,4.0,# Boxes Distributed (2 per box)
+2022-10,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,12,39.0,# Boxes Distributed (2 per box)
+2022-11,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,24,24.0,# Boxes Distributed (2 per box)
+2022-12,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,23,36.0,# Boxes Distributed (2 per box)
+2023-02,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,3,5.0,# Boxes Distributed (2 per box)
+2023-03,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,23,69.0,# Boxes Distributed (2 per box)
+2023-04,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,38,44.0,# Boxes Distributed (2 per box)
+2023-05,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,2,3.0,# Boxes Distributed (2 per box)
+2023-06,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,14,15.0,# Boxes Distributed (2 per box)
+2023-07,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,32,32.0,# Boxes Distributed (2 per box)
+2023-08,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,18,22.0,# Boxes Distributed (2 per box)
+2023-09,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,37,60.0,# Boxes Distributed (2 per box)
+2023-10,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,17,71.0,# Boxes Distributed (2 per box)
+2023-11,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,34,41.0,# Boxes Distributed (2 per box)
+2023-12,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,2,13.0,# Boxes Distributed (2 per box)
+2024-01,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,20,43.0,# Boxes Distributed (2 per box)
+2024-02,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,18,25.0,# Boxes Distributed (2 per box)
+2024-03,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,23,34.0,# Boxes Distributed (2 per box)
+2024-04,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,4,6.0,# Boxes Distributed (2 per box)
+2024-05,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,1,6.0,# Boxes Distributed (2 per box)
+2024-06,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,2,2.0,# Boxes Distributed (2 per box)
+2024-07,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,17,18.0,# Boxes Distributed (2 per box)
+2024-08,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,23,31.0,# Boxes Distributed (2 per box)
+2024-09,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,3,3.0,# Boxes Distributed (2 per box)
+2024-10,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,12,49.0,# Boxes Distributed (2 per box)
+2024-11,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,4,18.0,# Boxes Distributed (2 per box)
+2025-01,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,1,4.0,# Boxes Distributed (2 per box)
+2025-02,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,19,22.0,# Boxes Distributed (2 per box)
+2025-03,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,42,71.0,# Boxes Distributed (2 per box)
+2025-04,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,6,13.0,# Boxes Distributed (2 per box)
+2025-05,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,10,16.0,# Boxes Distributed (2 per box)
+2025-06,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,13,23.0,# Boxes Distributed (2 per box)
+2025-07,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Downtown Restrooms,2,10.0,# Boxes Distributed (2 per box)
+2025-07,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,6,21.0,# Boxes Distributed (2 per box)
+2025-08,Narcan,Select relevant Narcan kiosk if applicable.,MHA Main Office,1,9.0,# Boxes Distributed (2 per box)
+2025-08,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Downtown Restrooms,3,13.0,# Boxes Distributed (2 per box)
+2025-08,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Pier Restrooms,1,2.0,# Boxes Distributed (2 per box)
+2025-08,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,27,56.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,Select relevant Narcan kiosk if applicable.,2 Fish,1,6.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,Select relevant Narcan kiosk if applicable.,Anchor Bay Laundromat,1,24.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,Select relevant Narcan kiosk if applicable.,Ft Ross Store,1,7.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,Select relevant Narcan kiosk if applicable.,Lighthouse,1,6.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,Select relevant Narcan kiosk if applicable.,MHA Main Office,1,5.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Downtown Restrooms,3,15.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Teen Center,1,24.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,Select relevant Narcan kiosk if applicable.,S&B,1,6.0,# Boxes Distributed (2 per box)
+2025-09,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,8,31.0,# Boxes Distributed (2 per box)
+2025-10,Narcan,Select relevant Narcan kiosk if applicable.,Anchor Bay Laundromat,1,18.0,# Boxes Distributed (2 per box)
+2025-10,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Downtown Restrooms,2,12.0,# Boxes Distributed (2 per box)
+2025-10,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,4,25.0,# Boxes Distributed (2 per box)
+2025-11,Narcan,Select relevant Narcan kiosk if applicable.,2 Fish,1,3.0,# Boxes Distributed (2 per box)
+2025-11,Narcan,Select relevant Narcan kiosk if applicable.,Anchor Bay Laundromat,1,14.0,# Boxes Distributed (2 per box)
+2025-11,Narcan,Select relevant Narcan kiosk if applicable.,MHA Main Office,2,17.0,# Boxes Distributed (2 per box)
+2025-11,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Downtown Restrooms,1,6.0,# Boxes Distributed (2 per box)
+2025-11,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Pier Restrooms,1,5.0,# Boxes Distributed (2 per box)
+2025-11,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,3,3.0,# Boxes Distributed (2 per box)
+2025-12,Narcan,Select relevant Narcan kiosk if applicable.,Ft Ross Store,1,6.0,# Boxes Distributed (2 per box)
+2025-12,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Downtown Restrooms,1,5.0,# Boxes Distributed (2 per box)
+2025-12,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Pier Restrooms,1,4.0,# Boxes Distributed (2 per box)
+2025-12,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,4,24.0,# Boxes Distributed (2 per box)
+2026-01,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena City Hall,2,4.0,# Boxes Distributed (2 per box)
+2026-01,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Downtown Restrooms,3,17.0,# Boxes Distributed (2 per box)
+2026-01,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,11,11.0,# Boxes Distributed (2 per box)
+2026-02,Narcan,Select relevant Narcan kiosk if applicable.,Ft Ross Store,2,6.0,# Boxes Distributed (2 per box)
+2026-02,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Downtown Restrooms,2,11.0,# Boxes Distributed (2 per box)
+2026-02,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Teen Center,1,10.0,# Boxes Distributed (2 per box)
+2026-02,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,6,7.0,# Boxes Distributed (2 per box)
+2026-03,Narcan,Select relevant Narcan kiosk if applicable.,Anchor Bay Laundromat,1,18.0,# Boxes Distributed (2 per box)
+2026-03,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena City Hall,1,2.0,# Boxes Distributed (2 per box)
+2026-03,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Downtown Restrooms,3,15.0,# Boxes Distributed (2 per box)
+2026-03,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,3,13.0,# Boxes Distributed (2 per box)
+2026-04,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Downtown Restrooms,2,7.0,# Boxes Distributed (2 per box)
+2026-04,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,16,44.0,# Boxes Distributed (2 per box)
+2026-05,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Downtown Restrooms,2,11.0,# Boxes Distributed (2 per box)
+2026-05,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Pier Restrooms,1,2.0,# Boxes Distributed (2 per box)
+2026-05,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,13,13.0,# Boxes Distributed (2 per box)
+2026-06,Narcan,Select relevant Narcan kiosk if applicable.,Ft Ross Store,1,4.0,# Boxes Distributed (2 per box)
+2026-06,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,6,19.0,# Boxes Distributed (2 per box)
+2026-07,Narcan,Select relevant Narcan kiosk if applicable.,MHA Main Office,1,19.0,# Boxes Distributed (2 per box)
+2026-07,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,3,3.0,# Boxes Distributed (2 per box)
+2026-08,Narcan,Select relevant Narcan kiosk if applicable.,Ft Ross Store,1,4.0,# Boxes Distributed (2 per box)
+2026-08,Narcan,Select relevant Narcan kiosk if applicable.,"Point Arena City Hall, Point Arena Downtown Restrooms, Point Arena Pier Restrooms",1,6.0,# Boxes Distributed (2 per box)
+2026-08,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Downtown Restrooms,1,6.0,# Boxes Distributed (2 per box)
+2026-08,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,11,17.0,# Boxes Distributed (2 per box)
+2026-09,Narcan,Select relevant Narcan kiosk if applicable.,MHA Main Office,2,3.0,# Boxes Distributed (2 per box)
+2026-09,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,15,26.0,# Boxes Distributed (2 per box)
+2026-10,Narcan,Select relevant Narcan kiosk if applicable.,Point Arena Teen Center,1,6.0,# Boxes Distributed (2 per box)
+2026-10,Narcan,Select relevant Narcan kiosk if applicable.,Unknown,24,80.0,# Boxes Distributed (2 per box)
+2024-04,Oximeter,(all),(all),1,1.0,# Distributed
+2024-05,Oximeter,(all),(all),1,1.0,# Distributed
+2024-09,Oximeter,(all),(all),1,1.0,# Distributed
+2025-02,Oximeter,(all),(all),1,1.0,# Distributed
+2025-03,Oximeter,(all),(all),2,2.0,# Distributed
+2025-11,Oximeter,(all),(all),2,2.0,# Distributed
+2026-03,Oximeter,(all),(all),1,1.0,# Distributed
+2026-09,Oximeter,(all),(all),1,1.0,# Distributed
+2024-04,Oximeter,Organization,Unknown,1,1.0,# Distributed
+2024-05,Oximeter,Organization,community member,1,1.0,# Distributed
+2024-09,Oximeter,Organization,community member,1,1.0,# Distributed
+2025-02,Oximeter,Organization,Community Member,1,1.0,# Distributed
+2025-03,Oximeter,Organization,Mendonoma Health Alliance,2,2.0,# Distributed
+2025-11,Oximeter,Organization,none,1,1.0,# Distributed
+2025-11,Oximeter,Organization,not,1,1.0,# Distributed
+2026-03,Oximeter,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2026-09,Oximeter,Organization,client,1,1.0,# Distributed
+2024-04,Oximeter,Event,Unknown,1,1.0,# Distributed
+2024-05,Oximeter,Event,walk in,1,1.0,# Distributed
+2024-09,Oximeter,Event,walk in,1,1.0,# Distributed
+2025-02,Oximeter,Event,walk-in,1,1.0,# Distributed
+2025-03,Oximeter,Event,Mobile Clinic,2,2.0,# Distributed
+2025-11,Oximeter,Event,none,2,2.0,# Distributed
+2026-03,Oximeter,Event,Screening,1,1.0,# Distributed
+2026-09,Oximeter,Event,na,1,1.0,# Distributed
+2020-11,Pill Box,(all),(all),2,7.0,# Distributed
+2020-12,Pill Box,(all),(all),1,1.0,# Distributed
+2021-01,Pill Box,(all),(all),1,1.0,# Distributed
+2021-04,Pill Box,(all),(all),3,3.0,# Distributed
+2021-06,Pill Box,(all),(all),3,4.0,# Distributed
+2021-07,Pill Box,(all),(all),1,1.0,# Distributed
+2021-08,Pill Box,(all),(all),2,6.0,# Distributed
+2021-09,Pill Box,(all),(all),1,1.0,# Distributed
+2021-12,Pill Box,(all),(all),1,1.0,# Distributed
+2022-01,Pill Box,(all),(all),3,3.0,# Distributed
+2022-04,Pill Box,(all),(all),3,11.0,# Distributed
+2022-05,Pill Box,(all),(all),2,2.0,# Distributed
+2022-08,Pill Box,(all),(all),1,16.0,# Distributed
+2022-09,Pill Box,(all),(all),1,1.0,# Distributed
+2022-10,Pill Box,(all),(all),1,1.0,# Distributed
+2022-12,Pill Box,(all),(all),2,3.0,# Distributed
+2023-01,Pill Box,(all),(all),1,1.0,# Distributed
+2023-02,Pill Box,(all),(all),2,2.0,# Distributed
+2023-03,Pill Box,(all),(all),1,1.0,# Distributed
+2023-04,Pill Box,(all),(all),3,7.0,# Distributed
+2023-05,Pill Box,(all),(all),1,1.0,# Distributed
+2023-06,Pill Box,(all),(all),4,6.0,# Distributed
+2023-07,Pill Box,(all),(all),2,2.0,# Distributed
+2023-08,Pill Box,(all),(all),1,9.0,# Distributed
+2023-09,Pill Box,(all),(all),1,1.0,# Distributed
+2023-10,Pill Box,(all),(all),1,1.0,# Distributed
+2023-11,Pill Box,(all),(all),1,5.0,# Distributed
+2024-04,Pill Box,(all),(all),1,1.0,# Distributed
+2024-07,Pill Box,(all),(all),1,1.0,# Distributed
+2024-08,Pill Box,(all),(all),1,1.0,# Distributed
+2024-09,Pill Box,(all),(all),1,1.0,# Distributed
+2024-10,Pill Box,(all),(all),1,3.0,# Distributed
+2025-02,Pill Box,(all),(all),1,1.0,# Distributed
+2025-03,Pill Box,(all),(all),1,1.0,# Distributed
+2025-08,Pill Box,(all),(all),2,3.0,# Distributed
+2025-09,Pill Box,(all),(all),2,3.0,# Distributed
+2025-10,Pill Box,(all),(all),2,2.0,# Distributed
+2025-11,Pill Box,(all),(all),2,2.0,# Distributed
+2025-12,Pill Box,(all),(all),2,2.0,# Distributed
+2026-02,Pill Box,(all),(all),2,2.0,# Distributed
+2026-03,Pill Box,(all),(all),1,1.0,# Distributed
+2026-04,Pill Box,(all),(all),1,2.0,# Distributed
+2026-05,Pill Box,(all),(all),1,1.0,# Distributed
+2026-06,Pill Box,(all),(all),2,3.0,# Distributed
+2026-07,Pill Box,(all),(all),1,1.0,# Distributed
+2026-08,Pill Box,(all),(all),1,2.0,# Distributed
+2026-09,Pill Box,(all),(all),1,1.0,# Distributed
+2020-11,Pill Box,Organization,Community Member,1,6.0,# Distributed
+2020-11,Pill Box,Organization,MHA,1,1.0,# Distributed
+2020-12,Pill Box,Organization,-,1,1.0,# Distributed
+2021-01,Pill Box,Organization,Community member,1,1.0,# Distributed
+2021-04,Pill Box,Organization,Community Member,3,3.0,# Distributed
+2021-06,Pill Box,Organization,Community member,1,1.0,# Distributed
+2021-06,Pill Box,Organization,client,2,3.0,# Distributed
+2021-07,Pill Box,Organization,Community member,1,1.0,# Distributed
+2021-08,Pill Box,Organization,Client,1,1.0,# Distributed
+2021-08,Pill Box,Organization,community member,1,5.0,# Distributed
+2021-09,Pill Box,Organization,client,1,1.0,# Distributed
+2021-12,Pill Box,Organization,Community member,1,1.0,# Distributed
+2022-01,Pill Box,Organization,community member,3,3.0,# Distributed
+2022-04,Pill Box,Organization,Community member,2,2.0,# Distributed
+2022-04,Pill Box,Organization,community member,1,9.0,# Distributed
+2022-05,Pill Box,Organization,client,2,2.0,# Distributed
+2022-08,Pill Box,Organization,community member,1,16.0,# Distributed
+2022-09,Pill Box,Organization,client,1,1.0,# Distributed
+2022-10,Pill Box,Organization,client,1,1.0,# Distributed
+2022-12,Pill Box,Organization,Lisa Kritz Physical Therapy,1,2.0,# Distributed
+2022-12,Pill Box,Organization,community member,1,1.0,# Distributed
+2023-01,Pill Box,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2023-02,Pill Box,Organization,Client,1,1.0,# Distributed
+2023-02,Pill Box,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2023-03,Pill Box,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2023-04,Pill Box,Organization,CC client,1,2.0,# Distributed
+2023-04,Pill Box,Organization,client,1,1.0,# Distributed
+2023-04,Pill Box,Organization,community member,1,4.0,# Distributed
+2023-05,Pill Box,Organization,95445,1,1.0,# Distributed
+2023-06,Pill Box,Organization,03111948PW,1,1.0,# Distributed
+2023-06,Pill Box,Organization,11261956JM,1,1.0,# Distributed
+2023-06,Pill Box,Organization,client,1,1.0,# Distributed
+2023-06,Pill Box,Organization,community,1,3.0,# Distributed
+2023-07,Pill Box,Organization,client,1,1.0,# Distributed
+2023-07,Pill Box,Organization,community member,1,1.0,# Distributed
+2023-08,Pill Box,Organization,RX take back,1,9.0,# Distributed
+2023-09,Pill Box,Organization,client,1,1.0,# Distributed
+2023-10,Pill Box,Organization,Gualala (MHA),1,1.0,# Distributed
+2023-11,Pill Box,Organization,community member,1,5.0,# Distributed
+2024-04,Pill Box,Organization,client,1,1.0,# Distributed
+2024-07,Pill Box,Organization,community member,1,1.0,# Distributed
+2024-08,Pill Box,Organization,MHA,1,1.0,# Distributed
+2024-09,Pill Box,Organization,community member,1,1.0,# Distributed
+2024-10,Pill Box,Organization,client,1,3.0,# Distributed
+2025-02,Pill Box,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2025-03,Pill Box,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2025-08,Pill Box,Organization,95445,2,3.0,# Distributed
+2025-09,Pill Box,Organization,RCMS,1,2.0,# Distributed
+2025-09,Pill Box,Organization,community member,1,1.0,# Distributed
+2025-10,Pill Box,Organization,community member,2,2.0,# Distributed
+2025-11,Pill Box,Organization,95445,1,1.0,# Distributed
+2025-11,Pill Box,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2025-12,Pill Box,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2025-12,Pill Box,Organization,mha,1,1.0,# Distributed
+2026-02,Pill Box,Organization,MHA - Main Office,1,1.0,# Distributed
+2026-02,Pill Box,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2026-03,Pill Box,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2026-04,Pill Box,Organization,MHA,1,2.0,# Distributed
+2026-05,Pill Box,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2026-06,Pill Box,Organization,client,1,2.0,# Distributed
+2026-06,Pill Box,Organization,community member,1,1.0,# Distributed
+2026-07,Pill Box,Organization,MHA,1,1.0,# Distributed
+2026-08,Pill Box,Organization,MHA,1,2.0,# Distributed
+2026-09,Pill Box,Organization,MHA,1,1.0,# Distributed
+2020-11,Pill Box,Event,Prescription Take-Back Event,1,6.0,# Distributed
+2020-11,Pill Box,Event,Unknown,1,1.0,# Distributed
+2020-12,Pill Box,Event,Client Appointment,1,1.0,# Distributed
+2021-01,Pill Box,Event,appointment,1,1.0,# Distributed
+2021-04,Pill Box,Event,Rx Take-Back,3,3.0,# Distributed
+2021-06,Pill Box,Event,CT home visit,1,2.0,# Distributed
+2021-06,Pill Box,Event,Unknown,1,1.0,# Distributed
+2021-06,Pill Box,Event,home visit,1,1.0,# Distributed
+2021-07,Pill Box,Event,Home visit,1,1.0,# Distributed
+2021-08,Pill Box,Event,Drug take back event,1,5.0,# Distributed
+2021-08,Pill Box,Event,Home visit,1,1.0,# Distributed
+2021-09,Pill Box,Event,office visit,1,1.0,# Distributed
+2021-12,Pill Box,Event,Unknown,1,1.0,# Distributed
+2022-01,Pill Box,Event,take back,3,3.0,# Distributed
+2022-04,Pill Box,Event,Take Back,1,9.0,# Distributed
+2022-04,Pill Box,Event,Unknown,2,2.0,# Distributed
+2022-05,Pill Box,Event,Care Transitions,2,2.0,# Distributed
+2022-08,Pill Box,Event,Drug take back event,1,16.0,# Distributed
+2022-09,Pill Box,Event,home visit,1,1.0,# Distributed
+2022-10,Pill Box,Event,Blood pressure + glucose monitoring program appointment,1,1.0,# Distributed
+2022-12,Pill Box,Event,Care Transitions,1,1.0,# Distributed
+2022-12,Pill Box,Event,Na,1,2.0,# Distributed
+2023-01,Pill Box,Event,Unknown,1,1.0,# Distributed
+2023-02,Pill Box,Event,Home visit,1,1.0,# Distributed
+2023-02,Pill Box,Event,Unknown,1,1.0,# Distributed
+2023-03,Pill Box,Event,Unknown,1,1.0,# Distributed
+2023-04,Pill Box,Event,Care Coordination,1,2.0,# Distributed
+2023-04,Pill Box,Event,Drug take back event,1,4.0,# Distributed
+2023-04,Pill Box,Event,Unknown,1,1.0,# Distributed
+2023-05,Pill Box,Event,Walk-in,1,1.0,# Distributed
+2023-06,Pill Box,Event,BP Screening @ Senior Lunch PA,1,1.0,# Distributed
+2023-06,Pill Box,Event,Senior Lunch @ PA,1,1.0,# Distributed
+2023-06,Pill Box,Event,home visit,1,1.0,# Distributed
+2023-06,Pill Box,Event,vaccine clinic,1,3.0,# Distributed
+2023-07,Pill Box,Event,ECM appt.,1,1.0,# Distributed
+2023-07,Pill Box,Event,walk in,1,1.0,# Distributed
+2023-08,Pill Box,Event,Rx Take back,1,9.0,# Distributed
+2023-09,Pill Box,Event,home visit,1,1.0,# Distributed
+2023-10,Pill Box,Event,in office walk in,1,1.0,# Distributed
+2023-11,Pill Box,Event,Take Back,1,5.0,# Distributed
+2024-04,Pill Box,Event,ECM appt.,1,1.0,# Distributed
+2024-07,Pill Box,Event,walk in,1,1.0,# Distributed
+2024-08,Pill Box,Event,take back,1,1.0,# Distributed
+2024-09,Pill Box,Event,walk in,1,1.0,# Distributed
+2024-10,Pill Box,Event,walk in,1,3.0,# Distributed
+2025-02,Pill Box,Event,Mobile Clinic,1,1.0,# Distributed
+2025-03,Pill Box,Event,Mobile Clinic,1,1.0,# Distributed
+2025-08,Pill Box,Event,Drug take back event,2,3.0,# Distributed
+2025-09,Pill Box,Event,Unknown,1,2.0,# Distributed
+2025-09,Pill Box,Event,walk in,1,1.0,# Distributed
+2025-10,Pill Box,Event,walk in,2,2.0,# Distributed
+2025-11,Pill Box,Event,Drug take back event,1,1.0,# Distributed
+2025-11,Pill Box,Event,Mobile Clinic,1,1.0,# Distributed
+2025-12,Pill Box,Event,Mobile CLinic,1,1.0,# Distributed
+2025-12,Pill Box,Event,client,1,1.0,# Distributed
+2026-02,Pill Box,Event,Client Appointment,1,1.0,# Distributed
+2026-02,Pill Box,Event,Unknown,1,1.0,# Distributed
+2026-03,Pill Box,Event,Screening,1,1.0,# Distributed
+2026-04,Pill Box,Event,Office walk-in,1,2.0,# Distributed
+2026-05,Pill Box,Event,drop-in,1,1.0,# Distributed
+2026-06,Pill Box,Event,drop in,1,2.0,# Distributed
+2026-06,Pill Box,Event,walk in,1,1.0,# Distributed
+2026-07,Pill Box,Event,In need,1,1.0,# Distributed
+2026-08,Pill Box,Event,Drug Take Back,1,2.0,# Distributed
+2026-09,Pill Box,Event,RCMS PCP,1,1.0,# Distributed
+2023-03,Pill Splitter,(all),(all),1,1.0,# Distributed
+2023-06,Pill Splitter,(all),(all),1,1.0,# Distributed
+2023-07,Pill Splitter,(all),(all),2,2.0,# Distributed
+2023-12,Pill Splitter,(all),(all),1,1.0,# Distributed
+2024-04,Pill Splitter,(all),(all),1,1.0,# Distributed
+2025-03,Pill Splitter,(all),(all),1,2.0,# Distributed
+2025-05,Pill Splitter,(all),(all),1,1.0,# Distributed
+2025-10,Pill Splitter,(all),(all),1,1.0,# Distributed
+2025-11,Pill Splitter,(all),(all),1,1.0,# Distributed
+2026-06,Pill Splitter,(all),(all),1,1.0,# Distributed
+2023-03,Pill Splitter,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2023-06,Pill Splitter,Organization,community,1,1.0,# Distributed
+2023-07,Pill Splitter,Organization,client,1,1.0,# Distributed
+2023-07,Pill Splitter,Organization,community member,1,1.0,# Distributed
+2023-12,Pill Splitter,Organization,MHA,1,1.0,# Distributed
+2024-04,Pill Splitter,Organization,MHA,1,1.0,# Distributed
+2025-03,Pill Splitter,Organization,Mendonoma Health Alliance,1,2.0,# Distributed
+2025-05,Pill Splitter,Organization,client,1,1.0,# Distributed
+2025-10,Pill Splitter,Organization,community member,1,1.0,# Distributed
+2025-11,Pill Splitter,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2026-06,Pill Splitter,Organization,community member,1,1.0,# Distributed
+2023-03,Pill Splitter,Event,Unknown,1,1.0,# Distributed
+2023-06,Pill Splitter,Event,vaccine clinic,1,1.0,# Distributed
+2023-07,Pill Splitter,Event,ECM appt.,1,1.0,# Distributed
+2023-07,Pill Splitter,Event,drop in,1,1.0,# Distributed
+2023-12,Pill Splitter,Event,Unknown,1,1.0,# Distributed
+2024-04,Pill Splitter,Event,MHA walk in,1,1.0,# Distributed
+2025-03,Pill Splitter,Event,Mobile Clinic,1,2.0,# Distributed
+2025-05,Pill Splitter,Event,mobile outreach event,1,1.0,# Distributed
+2025-10,Pill Splitter,Event,walk in,1,1.0,# Distributed
+2025-11,Pill Splitter,Event,Walk-In,1,1.0,# Distributed
+2026-06,Pill Splitter,Event,walk in,1,1.0,# Distributed
+2022-03,Portion Plate,(all),(all),1,12.0,# Distributed
+2022-06,Portion Plate,(all),(all),1,1.0,# Distributed
+2022-07,Portion Plate,(all),(all),2,2.0,# Distributed
+2022-08,Portion Plate,(all),(all),1,1.0,# Distributed
+2022-09,Portion Plate,(all),(all),2,2.0,# Distributed
+2022-10,Portion Plate,(all),(all),1,144.0,# Distributed
+2023-04,Portion Plate,(all),(all),1,1.0,# Distributed
+2025-03,Portion Plate,(all),(all),1,3.0,# Distributed
+2026-02,Portion Plate,(all),(all),1,2.0,# Distributed
+2026-08,Portion Plate,(all),(all),1,4.0,# Distributed
+2022-03,Portion Plate,Organization,SCHIP,1,12.0,# Distributed
+2022-06,Portion Plate,Organization,Community member,1,1.0,# Distributed
+2022-07,Portion Plate,Organization,Client,1,1.0,# Distributed
+2022-07,Portion Plate,Organization,Community member,1,1.0,# Distributed
+2022-08,Portion Plate,Organization,Community member,1,1.0,# Distributed
+2022-09,Portion Plate,Organization,client,2,2.0,# Distributed
+2022-10,Portion Plate,Organization,School Health Fair,1,144.0,# Distributed
+2023-04,Portion Plate,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2025-03,Portion Plate,Organization,Mendonoma Health Alliance,1,3.0,# Distributed
+2026-02,Portion Plate,Organization,Mendonoma Health Alliance,1,2.0,# Distributed
+2026-08,Portion Plate,Organization,MHA,1,4.0,# Distributed
+2021-06,Scale,(all),(all),1,1.0,# Distributed
+2021-07,Scale,(all),(all),1,1.0,# Distributed
+2021-09,Scale,(all),(all),1,1.0,# Distributed
+2022-01,Scale,(all),(all),1,1.0,# Distributed
+2022-05,Scale,(all),(all),1,1.0,# Distributed
+2022-10,Scale,(all),(all),1,1.0,# Distributed
+2023-06,Scale,(all),(all),1,1.0,# Distributed
+2023-07,Scale,(all),(all),1,1.0,# Distributed
+2025-03,Scale,(all),(all),1,1.0,# Distributed
+2021-06,Scale,Organization,MHA,1,1.0,# Distributed
+2021-07,Scale,Organization,Community member,1,1.0,# Distributed
+2021-09,Scale,Organization,Client,1,1.0,# Distributed
+2022-01,Scale,Organization,client,1,1.0,# Distributed
+2022-05,Scale,Organization,client,1,1.0,# Distributed
+2022-10,Scale,Organization,client,1,1.0,# Distributed
+2023-06,Scale,Organization,client,1,1.0,# Distributed
+2023-07,Scale,Organization,client,1,1.0,# Distributed
+2025-03,Scale,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2021-06,Scale,Event,CT home visit,1,1.0,# Distributed
+2021-07,Scale,Event,Home visit,1,1.0,# Distributed
+2021-09,Scale,Event,Home visit,1,1.0,# Distributed
+2022-01,Scale,Event,MHA office,1,1.0,# Distributed
+2022-05,Scale,Event,Care Transitions,1,1.0,# Distributed
+2022-10,Scale,Event,blood pressure + glucose monitoring appointment,1,1.0,# Distributed
+2023-06,Scale,Event,home visit,1,1.0,# Distributed
+2023-07,Scale,Event,ECM appt.,1,1.0,# Distributed
+2025-03,Scale,Event,drop-in,1,1.0,# Distributed
+2024-07,Sharps Container,(all),(all),1,1.0,# Distributed
+2024-11,Sharps Container,(all),(all),1,3.0,# Distributed
+2025-03,Sharps Container,(all),(all),2,2.0,# Distributed
+2025-09,Sharps Container,(all),(all),2,3.0,# Distributed
+2026-01,Sharps Container,(all),(all),1,1.0,# Distributed
+2026-03,Sharps Container,(all),(all),1,2.0,# Distributed
+2026-06,Sharps Container,(all),(all),4,4.0,# Distributed
+2026-07,Sharps Container,(all),(all),2,2.0,# Distributed
+2026-09,Sharps Container,(all),(all),1,1.0,# Distributed
+2026-10,Sharps Container,(all),(all),1,1.0,# Distributed
+2024-07,Sharps Container,Organization,client,1,1.0,# Distributed
+2024-11,Sharps Container,Organization,community member,1,3.0,# Distributed
+2025-03,Sharps Container,Organization,Mendonoma Health Alliance,2,2.0,# Distributed
+2025-09,Sharps Container,Organization,Mendonoma Health Alliance,1,2.0,# Distributed
+2025-09,Sharps Container,Organization,community member,1,1.0,# Distributed
+2026-01,Sharps Container,Organization,MHA,1,1.0,# Distributed
+2026-03,Sharps Container,Organization,MHA,1,2.0,# Distributed
+2026-06,Sharps Container,Organization,MHA - Main Office,3,3.0,# Distributed
+2026-06,Sharps Container,Organization,Mobile Clinic - Port Rd,1,1.0,# Distributed
+2026-07,Sharps Container,Organization,MHA,1,1.0,# Distributed
+2026-07,Sharps Container,Organization,Woman,1,1.0,# Distributed
+2026-09,Sharps Container,Organization,MHA,1,1.0,# Distributed
+2026-10,Sharps Container,Organization,MHA - Main Office,1,1.0,# Distributed
+2023-06,Thermometer,(all),(all),1,1.0,# Distributed
+2023-09,Thermometer,(all),(all),1,1.0,# Distributed
+2024-07,Thermometer,(all),(all),1,1.0,# Distributed
+2025-03,Thermometer,(all),(all),1,1.0,# Distributed
+2025-05,Thermometer,(all),(all),1,1.0,# Distributed
+2025-09,Thermometer,(all),(all),1,1.0,# Distributed
+2025-11,Thermometer,(all),(all),2,2.0,# Distributed
+2026-02,Thermometer,(all),(all),1,1.0,# Distributed
+2026-07,Thermometer,(all),(all),1,1.0,# Distributed
+2026-10,Thermometer,(all),(all),1,1.0,# Distributed
+2023-06,Thermometer,Organization,client,1,1.0,# Distributed
+2023-09,Thermometer,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2024-07,Thermometer,Organization,MHA,1,1.0,# Distributed
+2025-03,Thermometer,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2025-05,Thermometer,Organization,client,1,1.0,# Distributed
+2025-09,Thermometer,Organization,community member,1,1.0,# Distributed
+2025-11,Thermometer,Organization,95445,2,2.0,# Distributed
+2026-02,Thermometer,Organization,MHA - Main Office,1,1.0,# Distributed
+2026-07,Thermometer,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2026-10,Thermometer,Organization,MHA - Main Office,1,1.0,# Distributed
+2023-06,Thermometer,Event,home visit,1,1.0,# Distributed
+2023-09,Thermometer,Event,Unknown,1,1.0,# Distributed
+2024-07,Thermometer,Event,walk-in screening,1,1.0,# Distributed
+2025-03,Thermometer,Event,Mobile Clinic,1,1.0,# Distributed
+2025-05,Thermometer,Event,mobile clinic outreach,1,1.0,# Distributed
+2025-09,Thermometer,Event,walk in,1,1.0,# Distributed
+2025-11,Thermometer,Event,Drug take back event,2,2.0,# Distributed
+2026-02,Thermometer,Event,Unknown,1,1.0,# Distributed
+2026-07,Thermometer,Event,drop-in,1,1.0,# Distributed
+2026-10,Thermometer,Event,Unknown,1,1.0,# Distributed
+2026-04,Wound Care Kit,(all),(all),1,2.0,# Distributed
+2026-05,Wound Care Kit,(all),(all),2,3.0,# Distributed
+2026-06,Wound Care Kit,(all),(all),1,1.0,# Distributed
+2026-08,Wound Care Kit,(all),(all),2,2.0,# Distributed
+2026-04,Wound Care Kit,Organization,MHA,1,2.0,# Distributed
+2026-05,Wound Care Kit,Organization,MHA,1,2.0,# Distributed
+2026-05,Wound Care Kit,Organization,MHA - Main Office,1,1.0,# Distributed
+2026-06,Wound Care Kit,Organization,MHA,1,1.0,# Distributed
+2026-08,Wound Care Kit,Organization,Mendonoma Health Alliance,1,1.0,# Distributed
+2026-08,Wound Care Kit,Organization,Woman,1,1.0,# Distributed
+2026-04,Wound Care Kit,Event,Walk in,1,2.0,# Distributed
+2026-05,Wound Care Kit,Event,Health Screening,1,1.0,# Distributed
+2026-05,Wound Care Kit,Event,Walk in,1,2.0,# Distributed
+2026-06,Wound Care Kit,Event,Local,1,1.0,# Distributed
+2026-08,Wound Care Kit,Event,In need,1,1.0,# Distributed
+2026-08,Wound Care Kit,Event,Mobile Clinic,1,1.0,# Distributed

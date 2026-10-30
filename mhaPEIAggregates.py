@@ -15,8 +15,9 @@ DATA = Path(sys.argv[1]) if len(sys.argv) > 1 else Path.home() / "OneDrive - Imp
 OUT = Path(sys.argv[2]) if len(sys.argv) > 2 else Path(__file__).parent / "aggregates"
 OUT.mkdir(exist_ok=True)
 
-CANCEL, RESCHED = ["cancel"], ["resched"]
-NOSHOW = ["no show", "no-show", "noshow", "left without", "lwbs"]
+SEEN = ["complete", "chk :", "arr :"]  # completed / checked out / checked in
+CANCEL, RESCHED = ["cancel", "canc"], ["resched", "r/s"]
+NOSHOW = ["no show", "no-show", "noshow", "n/s", "left without", "lwbs"]
 AGE_BINS, AGE_LABELS = [0, 18, 30, 45, 65, 200], ["0-17", "18-29", "30-44", "45-64", "65+"]
 BASE = {"ERActivityID", "ActivityType", "Program", "ActivityDate", "Status", "PerformedBy", "Agency", "ERStaffID",
         "ParticipantsTotal", "ParticipantsNew", "ExportDate", "URL", "CreatedDate", "Screening_Gender", "Number of Par",
@@ -37,6 +38,14 @@ def has(s, words):
 
 def cat(s):
     return s.fillna("Unknown").astype(str).str.strip().replace("", "Unknown")
+
+
+def tame(s, min_total=5, maxlen=45):
+    """Collapse free-text values (rare or long) into one bucket; counts stay exact."""
+    s = cat(s)
+    vc = s.value_counts()
+    ok = set(vc[(vc >= min_total) & (vc.index.str.len() <= maxlen)].index)
+    return s.where(s.isin(ok), "Other (free text)")
 
 
 def agegrp(a):
@@ -80,7 +89,7 @@ def emr():
     enc = enc.dropna(subset=["Date"]).copy()
     enc["Month"] = enc["Date"].dt.to_period("M").astype(str)
     enc["is_cancel"], enc["is_resched"], enc["is_noshow"] = (has(enc["Visit Status"], w) for w in (CANCEL, RESCHED, NOSHOW))
-    enc["is_seen"] = ~(enc["is_cancel"] | enc["is_resched"] | enc["is_noshow"])
+    enc["is_seen"] = has(enc["Visit Status"], SEEN) & ~(enc["is_cancel"] | enc["is_resched"] | enc["is_noshow"])
     seen = enc[enc["is_seen"]]
 
     g = seen.groupby("Month")
@@ -95,7 +104,7 @@ def emr():
     cm = canc.groupby("Month").agg(Cancelled=("Date", "size"), Rescheduled=("Rescheduled", "sum"))
     cm["NoShow"] = enc[enc["is_noshow"]].groupby("Month").size()
     save(cm.fillna(0).astype(int).reset_index(), "emr_cancellations_monthly")
-    canc["Reason"] = cat(canc["Reason"])
+    canc["Reason"] = cat(canc["Visit Status"])  # Visit Status carries the cancel type; the Reason column is free text
     save(count(canc, ["Month", "Reason", "Rescheduled"]), "emr_cancel_reasons")
 
     pts = enc.sort_values("Date").groupby("Patient ID").tail(1).copy()
@@ -115,7 +124,7 @@ def emr():
 
     seen = seen.assign(Site=cat(seen["Appointment Facility Name"]))
     save(count(seen, ["Month", "Site"]), "emr_site_monthly")
-    save(pd.concat([count(seen.assign(Value=cat(seen[f])), ["Month", "Value"]).assign(Field=f)
+    save(pd.concat([count(seen.assign(Value=tame(seen[f])), ["Month", "Value"]).assign(Field=f)
                     for f in ["Visit Type", "Reason"] if f in seen])[["Month", "Field", "Value", "Count"]],
          "emr_visit_type_monthly")
 

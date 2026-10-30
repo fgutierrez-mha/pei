@@ -1,0 +1,210 @@
+Type,Field,Value,Count
+A1c Screening,A1c category,Diabetes (6.5+),47
+A1c Screening,A1c category,Normal (<5.7),165
+A1c Screening,A1c category,Prediabetes (5.7-6.4),82
+A1c Screening,Event Type,Appointment,6
+A1c Screening,Event Type,Community Event,18
+A1c Screening,Event Type,"Community Event, Screening",1
+A1c Screening,Event Type,ECM,2
+A1c Screening,Event Type,Office Walk-In,95
+A1c Screening,Event Type,"Office Walk-In, Screening",2
+A1c Screening,Event Type,Practice,1
+A1c Screening,Event Type,Screening,173
+A1c Screening,Event Type,"Screening, ECM",1
+A1c Screening,Event Type,"Screening, Workshop",1
+A1c Screening,Event Type,client appointment,1
+A1c Screening,Event Type,referral,1
+A1c Screening,Gender,Female,166
+A1c Screening,Gender,Male,134
+A1c Screening,Gender,"Male, Female",2
+A1c Screening,Prescribed Diabetes Meds?,No,224
+A1c Screening,Prescribed Diabetes Meds?,Yes,41
+A1c Screening,Frequency of Use,Daily,36
+A1c Screening,Frequency of Use,Monthly,1
+A1c Screening,Frequency of Use,Never,12
+A1c Screening,Frequency of Use,Rarely,11
+A1c Screening,Frequency of Use,Weekly,10
+A1c Screening,Race,African American,1
+A1c Screening,Race,Asian,1
+A1c Screening,Race,Bi-racial,1
+A1c Screening,Race,Declined,6
+A1c Screening,Race,Hispanic/Latino,56
+A1c Screening,Race,Native American,10
+A1c Screening,Race,Unknown,3
+A1c Screening,Race,White,224
+A1c Screening,"If yes, outcome of RCMS referral?",Establish PCP,1
+A1c Screening,"If yes, outcome of RCMS referral?",Primary Care,7
+A1c Screening,"If yes, outcome of RCMS referral?",Unknown,3
+A1c Screening,"If yes, outcome of RCMS referral?",Urgent Care,2
+A1c Screening,Location,Farmers Market Point Arena Pier,1
+A1c Screening,Location,Gualala Art Center,6
+A1c Screening,Location,Gualala Pharmacy,4
+A1c Screening,Location,In Town,1
+A1c Screening,Location,MHA Office,253
+A1c Screening,Location,Manchester Guild,1
+A1c Screening,Location,Mobile Clinic,1
+A1c Screening,Location,Ocean View Estates,3
+A1c Screening,Location,S&B Market - Manchester,15
+A1c Screening,Location,Surf Market,1
+A1c Screening,Location,Timber Cove Market,16
+A1c Screening,Last Glucose Check By MD/Clinic,Less than 1 Month,38
+A1c Screening,Last Glucose Check By MD/Clinic,Less than 1 Year,109
+A1c Screening,Last Glucose Check By MD/Clinic,More than 1 Year,155
+A1c Screening,Have Glucometer?,No,236
+A1c Screening,Have Glucometer?,Yes,66
+A1c Screening,Referred to RCMS?,No,282
+A1c Screening,Referred to RCMS?,Yes,20
+A1c Screening,History of Diabetes?,No,236
+A1c Screening,History of Diabetes?,Yes,66
+A1c Screening,Has PCP?,No,60
+A1c Screening,Has PCP?,Yes,168
+A1c Screening,PCP is at RCMS?,No,56
+A1c Screening,PCP is at RCMS?,Yes,109
+A1c Screening,PCP at MHA?,No,33
+A1c Screening,PCP at MHA?,Yes,2
+BP Screening,BP category,Elevated,256
+BP Screening,BP category,Hypertensive Crisis,52
+BP Screening,BP category,Normal,450
+BP Screening,BP category,Stage 1,396
+BP Screening,BP category,Stage 2,671
+BP Screening,Gender,Female,956
+BP Screening,Gender,Male,859
+BP Screening,Gender,"Male, Female",11
+BP Screening,History of HTN?,No,1125
+BP Screening,History of HTN?,Yes,701
+BP Screening,Prescribed HTN Meds?,No,1277
+BP Screening,Prescribed HTN Meds?,Yes,549
+BP Screening,Frequency of Use,Daily,348
+BP Screening,Frequency of Use,Every 2-3 Months,11
+BP Screening,Frequency of Use,Monthly,51
+BP Screening,Frequency of Use,Never,96
+BP Screening,Frequency of Use,Rarely,86
+BP Screening,Frequency of Use,Weekly,154
+BP Screening,Race,African American,2
+BP Screening,Race,Asian,13
+BP Screening,Race,Bi-racial,3
+BP Screening,Race,Declined,32
+BP Screening,Race,Hispanic/Latino,176
+BP Screening,Race,Middle Eastern,11
+BP Screening,Race,Native American,24
+BP Screening,Race,Unknown,851
+BP Screening,Race,White,714
+BP Screening,"If yes, outcome of RCMS referral?",Establish PCP,1
+BP Screening,"If yes, outcome of RCMS referral?",Primary Care,10
+BP Screening,"If yes, outcome of RCMS referral?",Unknown,9
+BP Screening,"If yes, outcome of RCMS referral?",Urgent Care,4
+BP Screening,Last BP Check By MD/Clinic,Less than 1 Month,758
+BP Screening,Last BP Check By MD/Clinic,Less than 1 Year,744
+BP Screening,Last BP Check By MD/Clinic,More than 1 Year,324
+BP Screening,Home BP Cuff?,No,1060
+BP Screening,Home BP Cuff?,Yes,766
+BP Screening,Referred to RCMS?,No,1775
+BP Screening,Referred to RCMS?,Yes,51
+BP Screening,Has PCP?,No,129
+BP Screening,Has PCP?,Yes,255
+BP Screening,Has PCP?,"Yes, No",1
+BP Screening,PCP is at RCMS?,No,113
+BP Screening,PCP is at RCMS?,Yes,145
+BP Screening,PCP is at RCMS?,"Yes, No",1
+BP Screening,PCP is at MHA?,No,33
+BP Screening,PCP is at MHA?,Yes,2
+COVID Screening,Gender,Female,841
+COVID Screening,Gender,Male,273
+COVID Screening,Purpose of Screening?,Curious,93
+COVID Screening,Purpose of Screening?,Employment Related,556
+COVID Screening,Purpose of Screening?,Medical Appointment/Procedure Related,12
+COVID Screening,Purpose of Screening?,Possible Exposure,239
+COVID Screening,Purpose of Screening?,Symptom Related,199
+COVID Screening,Purpose of Screening?,Verification Request,10
+COVID Screening,Are you fully COVID vaccinated?,no,152
+COVID Screening,Are you fully COVID vaccinated?,yes,962
+COVID Screening,Referred to RCMS?,No,1103
+COVID Screening,Referred to RCMS?,Yes,11
+COVID Screening,Are you experiencing COVID symptoms?,No,860
+COVID Screening,Are you experiencing COVID symptoms?,Yes,254
+COVID Screening,Location,In Town,14
+COVID Screening,Location,Kashia Reservation,39
+COVID Screening,Location,MHA Office,1051
+COVID Screening,Location,Point Arena High School,1
+COVID Screening,Location,Point Arena Reservation,9
+COVID Screening,Race,African American,2
+COVID Screening,Race,Asian,8
+COVID Screening,Race,Biracial,1
+COVID Screening,Race,Declined,8
+COVID Screening,Race,Hispanic/Latino,98
+COVID Screening,Race,Native American,91
+COVID Screening,Race,Unknown,5
+COVID Screening,Race,White,901
+COVID Screening,Screening Results,Inconclusive,2
+COVID Screening,Screening Results,Negative,991
+COVID Screening,Screening Results,Positive,121
+COVID Screening,Have you received a COVID booster?,No,297
+COVID Screening,Have you received a COVID booster?,Yes,757
+Cholesterol Screening,Total cholesterol,Borderline (200-239),119
+Cholesterol Screening,Total cholesterol,Desirable (<200),230
+Cholesterol Screening,Total cholesterol,High (240+),58
+Cholesterol Screening,LDL,Borderline (130-159),7
+Cholesterol Screening,LDL,Near optimal (100-129),6
+Cholesterol Screening,LDL,Optimal (<100),12
+Cholesterol Screening,LDL,Very high (190+),1
+Cholesterol Screening,HDL,Low (<40),95
+Cholesterol Screening,HDL,OK (40+),312
+Cholesterol Screening,Race,African American,1
+Cholesterol Screening,Race,Asian,3
+Cholesterol Screening,Race,Declined,10
+Cholesterol Screening,Race,Hispanic/Latino,71
+Cholesterol Screening,Race,Native American,8
+Cholesterol Screening,Race,Unknown,59
+Cholesterol Screening,Race,White,255
+Cholesterol Screening,Location,Coastal Sr. (Gualala),19
+Cholesterol Screening,Location,Coastal Sr. (Point Arena),24
+Cholesterol Screening,Location,Food Bank - Gualala Baptist Church,11
+Cholesterol Screening,Location,Gualala Art Center,7
+Cholesterol Screening,Location,Gualala Community Center,4
+Cholesterol Screening,Location,Gualala Pharmacy,6
+Cholesterol Screening,Location,MHA Office,218
+Cholesterol Screening,Location,Manchester Grange,26
+Cholesterol Screening,Location,Ocean View Estates,1
+Cholesterol Screening,Location,Point Arena High School,22
+Cholesterol Screening,Location,S&B Market - Manchester,30
+Cholesterol Screening,Location,Sundstrum Mall,4
+Cholesterol Screening,Location,Surf Market,4
+Cholesterol Screening,Location,Timber Cove Market,31
+Cholesterol Screening,Type of Test,Lipid Profile,27
+Cholesterol Screening,Type of Test,TC-HDL,380
+Cholesterol Screening,History of cholesterol medication?,No,340
+Cholesterol Screening,History of cholesterol medication?,Yes,67
+Cholesterol Screening,History of high cholesterol?,No,281
+Cholesterol Screening,History of high cholesterol?,Yes,126
+Cholesterol Screening,Referred to RCMS?,No,381
+Cholesterol Screening,Referred to RCMS?,Yes,26
+Cholesterol Screening,Gender,Female,244
+Cholesterol Screening,Gender,Male,163
+Cholesterol Screening,Event Type,Appointment,6
+Cholesterol Screening,Event Type,Community Event,20
+Cholesterol Screening,Event Type,Employee,1
+Cholesterol Screening,Event Type,Office Walk-In,60
+Cholesterol Screening,Event Type,Practice,1
+Cholesterol Screening,Event Type,Screening,319
+Cholesterol Screening,"If yes, outcome of RCMS referral?",Primary Care,2
+Cholesterol Screening,"If yes, outcome of RCMS referral?",Unknown,4
+Cholesterol Screening,Has PCP?,No,33
+Cholesterol Screening,Has PCP?,Yes,80
+Cholesterol Screening,Has PCP?,"Yes, No",1
+Cholesterol Screening,PCP is at RCMS?,No,23
+Cholesterol Screening,PCP is at RCMS?,Yes,57
+Cholesterol Screening,Last Cholesterol Check By MD/Clinic,Less than 1 Month,13
+Cholesterol Screening,Last Cholesterol Check By MD/Clinic,Less than 1 Year,38
+Cholesterol Screening,Last Cholesterol Check By MD/Clinic,More than 1 Year,46
+Cholesterol Screening,PCP is at MHA?,No,5
+Cholesterol Screening,PCP is at MHA?,Yes,1
+HCV Screening,Gender,Female,1
+HCV Screening,Gender,Male,1
+HCV Screening,Race,Declined,1
+HCV Screening,Race,White,1
+HIV Screening,Gender,Female,2
+HIV Screening,Gender,Male,1
+HIV Screening,Purpose of Screening?,Curious,2
+HIV Screening,Purpose of Screening?,Possible Exposure,1
+HIV Screening,Race,Declined,1
+HIV Screening,Race,White,2

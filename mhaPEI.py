@@ -155,8 +155,8 @@ def render_emr():
 
     lo, hi = month_filter(list(mon["Month"]) + list(canc["Month"]), "emr_months")
     inr = lambda d: d[(d["Month"] >= lo) & (d["Month"] <= hi)]
-    st.caption(f"Data through {kpi.get('Data through', 'n/a')}. 'Seen' = visits that were not cancelled, "
-               "rescheduled or no-show. Demographics and chronic conditions cover all patients, not the month range.")
+    st.caption(f"Data through {kpi.get('Data through', 'n/a')}. 'Seen' = completed, checked-in or checked-out visits (pending, "
+               "cancelled, rescheduled, no-show and phone-contact statuses are excluded). Demographics and chronic conditions cover all patients, not the month range.")
     tabs = st.tabs(["Overview", "Cancellations", "Patients", "Visits & sites", "Chronic conditions"])
 
     with tabs[0]:
@@ -208,9 +208,9 @@ def render_emr():
             show(fig)
             a, b = st.columns(2)
             with a:
-                bar_h(r, "Reason", "Count", "Cancellation reasons")
+                bar_h(r, "Reason", "Count", "Cancellation type (Visit Status)")
             with b:
-                stack_month(r, "Reason", "Count", "Reasons by month")
+                stack_month(r, "Reason", "Count", "Cancellation type by month")
             st.markdown("**Rescheduled vs not, by reason**")
             table(r.pivot_table(index="Reason", columns="Rescheduled", values="Count", aggfunc="sum", fill_value=0)
                   .rename(columns={True: "Rescheduled", False: "Not rescheduled"}).reset_index())

@@ -1,0 +1,153 @@
+Type,Dimension,Value,Count
+A1c Screening,Age group,0-17,2
+A1c Screening,Age group,18-29,12
+A1c Screening,Age group,30-44,58
+A1c Screening,Age group,45-64,89
+A1c Screening,Age group,65+,141
+A1c Screening,Gender,Female,166
+A1c Screening,Gender,Male,136
+A1c Screening,Race,African American,1
+A1c Screening,Race,Asian,1
+A1c Screening,Race,Bi-racial,1
+A1c Screening,Race,Declined,6
+A1c Screening,Race,Hispanic/Latino,56
+A1c Screening,Race,Native American,10
+A1c Screening,Race,Unknown,3
+A1c Screening,Race,White,224
+A1c Screening,Event type,Appointment,6
+A1c Screening,Event type,Community Event,18
+A1c Screening,Event type,"Community Event, Screening",1
+A1c Screening,Event type,ECM,2
+A1c Screening,Event type,Office Walk-In,95
+A1c Screening,Event type,"Office Walk-In, Screening",2
+A1c Screening,Event type,Practice,1
+A1c Screening,Event type,Screening,173
+A1c Screening,Event type,"Screening, ECM",1
+A1c Screening,Event type,"Screening, Workshop",1
+A1c Screening,Event type,client appointment,1
+A1c Screening,Event type,referral,1
+A1c Screening,Zip,95412,3
+A1c Screening,Zip,95421,17
+A1c Screening,Zip,95445,144
+A1c Screening,Zip,95450,10
+A1c Screening,Zip,95459,16
+A1c Screening,Zip,95468,55
+A1c Screening,Zip,95480,5
+A1c Screening,Zip,95497,36
+A1c Screening,Zip,Unknown,16
+BP Screening,Age group,0-17,257
+BP Screening,Age group,18-29,79
+BP Screening,Age group,30-44,195
+BP Screening,Age group,45-64,500
+BP Screening,Age group,65+,791
+BP Screening,Age group,Unknown,4
+BP Screening,Gender,Female,956
+BP Screening,Gender,Male,870
+BP Screening,Race,African American,2
+BP Screening,Race,Asian,13
+BP Screening,Race,Bi-racial,3
+BP Screening,Race,Declined,32
+BP Screening,Race,Hispanic/Latino,176
+BP Screening,Race,Middle Eastern,11
+BP Screening,Race,Native American,24
+BP Screening,Race,Unknown,851
+BP Screening,Race,White,714
+BP Screening,Event type,Appointment,6
+BP Screening,Event type,BPMP,2
+BP Screening,Event type,Community Event,224
+BP Screening,Event type,"Community Event, Office Walk-In",1
+BP Screening,Event type,"Community Event, Screening",3
+BP Screening,Event type,ECM,3
+BP Screening,Event type,In clinic,2
+BP Screening,Event type,Office Walk-In,409
+BP Screening,Event type,"Office Walk-In, Screening",15
+BP Screening,Event type,Practice,1
+BP Screening,Event type,Remote monitoring,1
+BP Screening,Event type,Screening,1131
+BP Screening,Event type,"Screening, ECM",1
+BP Screening,Event type,Workshop,19
+BP Screening,Event type,at clients home,1
+BP Screening,Event type,mobile clinic,1
+BP Screening,Event type,mobile clinic outreach,5
+BP Screening,Event type,screening appointment,1
+BP Screening,Zip,95412,24
+BP Screening,Zip,95421,69
+BP Screening,Zip,95445,788
+BP Screening,Zip,95450,22
+BP Screening,Zip,95459,184
+BP Screening,Zip,95468,399
+BP Screening,Zip,95480,17
+BP Screening,Zip,95497,163
+BP Screening,Zip,Unknown,160
+COVID Screening,Age group,0-17,58
+COVID Screening,Age group,18-29,52
+COVID Screening,Age group,30-44,283
+COVID Screening,Age group,45-64,488
+COVID Screening,Age group,65+,231
+COVID Screening,Age group,Unknown,2
+COVID Screening,Gender,Female,841
+COVID Screening,Gender,Male,273
+COVID Screening,Race,African American,2
+COVID Screening,Race,Asian,8
+COVID Screening,Race,Biracial,1
+COVID Screening,Race,Declined,8
+COVID Screening,Race,Hispanic/Latino,98
+COVID Screening,Race,Native American,91
+COVID Screening,Race,Unknown,5
+COVID Screening,Race,White,901
+COVID Screening,Event type,Unknown,1114
+COVID Screening,Zip,95412,5
+COVID Screening,Zip,95421,1
+COVID Screening,Zip,95445,689
+COVID Screening,Zip,95450,2
+COVID Screening,Zip,95459,31
+COVID Screening,Zip,95468,222
+COVID Screening,Zip,95480,45
+COVID Screening,Zip,95497,48
+COVID Screening,Zip,Unknown,71
+Cholesterol Screening,Age group,0-17,4
+Cholesterol Screening,Age group,18-29,18
+Cholesterol Screening,Age group,30-44,80
+Cholesterol Screening,Age group,45-64,134
+Cholesterol Screening,Age group,65+,171
+Cholesterol Screening,Gender,Female,244
+Cholesterol Screening,Gender,Male,163
+Cholesterol Screening,Race,African American,1
+Cholesterol Screening,Race,Asian,3
+Cholesterol Screening,Race,Declined,10
+Cholesterol Screening,Race,Hispanic/Latino,71
+Cholesterol Screening,Race,Native American,8
+Cholesterol Screening,Race,Unknown,59
+Cholesterol Screening,Race,White,255
+Cholesterol Screening,Event type,Appointment,6
+Cholesterol Screening,Event type,Community Event,20
+Cholesterol Screening,Event type,Employee,1
+Cholesterol Screening,Event type,Office Walk-In,60
+Cholesterol Screening,Event type,Practice,1
+Cholesterol Screening,Event type,Screening,319
+Cholesterol Screening,Zip,95412,4
+Cholesterol Screening,Zip,95421,19
+Cholesterol Screening,Zip,95445,187
+Cholesterol Screening,Zip,95450,12
+Cholesterol Screening,Zip,95459,47
+Cholesterol Screening,Zip,95468,70
+Cholesterol Screening,Zip,95480,4
+Cholesterol Screening,Zip,95497,40
+Cholesterol Screening,Zip,Unknown,24
+HCV Screening,Age group,45-64,2
+HCV Screening,Gender,Female,1
+HCV Screening,Gender,Male,1
+HCV Screening,Race,Declined,1
+HCV Screening,Race,White,1
+HCV Screening,Event type,Unknown,2
+HCV Screening,Zip,95445,2
+HIV Screening,Age group,18-29,1
+HIV Screening,Age group,45-64,1
+HIV Screening,Age group,65+,1
+HIV Screening,Gender,Female,2
+HIV Screening,Gender,Male,1
+HIV Screening,Race,Declined,1
+HIV Screening,Race,White,2
+HIV Screening,Event type,Unknown,3
+HIV Screening,Zip,95445,2
+HIV Screening,Zip,95497,1

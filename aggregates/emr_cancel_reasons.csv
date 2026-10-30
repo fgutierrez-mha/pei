@@ -1,0 +1,25 @@
+Month,Reason,Rescheduled,Count
+2026-03,CANC : Cancelled,False,3
+2026-03,CANC : Cancelled,True,2
+2026-04,CANC : Cancelled,True,2
+2026-05,CANC : Cancelled,False,3
+2026-05,CANC : Cancelled,True,1
+2026-05,R/S : Rescheduled,True,2
+2026-06,CANC : Cancelled,True,1
+2026-06,CANCPHONE : Voice,True,1
+2026-06,R/S : Rescheduled,True,2
+2026-07,CANC : Cancelled,False,2
+2026-07,CANC : Cancelled,True,3
+2026-07,CANCPHONE : Voice,True,1
+2026-07,R/S : Rescheduled,True,4
+2026-08,CANC : Cancelled,False,4
+2026-08,CANC : Cancelled,True,5
+2026-08,CANCPHONE : Voice,False,1
+2026-08,R/S : Rescheduled,True,10
+2026-09,CANC : Cancelled,False,3
+2026-09,CANCPHONE : Voice,False,1
+2026-09,R/S : Rescheduled,True,12
+2026-10,CANC : Cancelled,False,6
+2026-10,CANC : Cancelled,True,4
+2026-10,CANCPHONE : Voice,False,2
+2026-10,R/S : Rescheduled,True,16

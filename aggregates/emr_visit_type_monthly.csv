@@ -1,0 +1,185 @@
+Month,Field,Value,Count
+2026-01,Visit Type,ECMCKBill : ECM Check In (Billable),32
+2026-01,Visit Type,ECMIntBill : ECM Intake (Billable),3
+2026-01,Visit Type,OV : Office Visit,3
+2026-01,Visit Type,Other (free text),2
+2026-02,Visit Type,ECMCKBill : ECM Check In (Billable),34
+2026-02,Visit Type,ECMIntBill : ECM Intake (Billable),1
+2026-02,Visit Type,MNP : Mobile New Patient,3
+2026-02,Visit Type,OV : Office Visit,5
+2026-02,Visit Type,Other (free text),2
+2026-03,Visit Type,ECMCKBill : ECM Check In (Billable),33
+2026-03,Visit Type,ECMIntBill : ECM Intake (Billable),3
+2026-03,Visit Type,MAT : Medically Assisted Treatment Visit,5
+2026-03,Visit Type,MNP : Mobile New Patient,2
+2026-03,Visit Type,OV : Office Visit,4
+2026-03,Visit Type,Other (free text),3
+2026-03,Visit Type,SP : Sports Physical,1
+2026-03,Visit Type,THealth : Telehealth,1
+2026-04,Visit Type,ECMCKBill : ECM Check In (Billable),52
+2026-04,Visit Type,ECMIntBill : ECM Intake (Billable),2
+2026-04,Visit Type,MAT : Medically Assisted Treatment Visit,5
+2026-04,Visit Type,MNP : Mobile New Patient,1
+2026-04,Visit Type,OV : Office Visit,5
+2026-04,Visit Type,Other (free text),2
+2026-04,Visit Type,THealth : Telehealth,2
+2026-04,Visit Type,Urg Care : Urgent Care Appointment,1
+2026-05,Visit Type,ECMCKBill : ECM Check In (Billable),59
+2026-05,Visit Type,ECMIntBill : ECM Intake (Billable),3
+2026-05,Visit Type,MAT : Medically Assisted Treatment Visit,3
+2026-05,Visit Type,MNP : Mobile New Patient,2
+2026-05,Visit Type,OV : Office Visit,7
+2026-05,Visit Type,Other (free text),1
+2026-05,Visit Type,THealth : Telehealth,1
+2026-06,Visit Type,ECMCKBill : ECM Check In (Billable),55
+2026-06,Visit Type,ECMIntBill : ECM Intake (Billable),1
+2026-06,Visit Type,MAT : Medically Assisted Treatment Visit,3
+2026-06,Visit Type,MATNEW : MAT new patient,1
+2026-06,Visit Type,MNP : Mobile New Patient,15
+2026-06,Visit Type,OV : Office Visit,20
+2026-06,Visit Type,Other (free text),1
+2026-06,Visit Type,SP : Sports Physical,2
+2026-06,Visit Type,THealth : Telehealth,7
+2026-06,Visit Type,Urg Care : Urgent Care Appointment,1
+2026-07,Visit Type,ECMCKBill : ECM Check In (Billable),55
+2026-07,Visit Type,ECMIntBill : ECM Intake (Billable),1
+2026-07,Visit Type,MAT : Medically Assisted Treatment Visit,3
+2026-07,Visit Type,MATNEW : MAT new patient,2
+2026-07,Visit Type,MNP : Mobile New Patient,4
+2026-07,Visit Type,OV : Office Visit,16
+2026-07,Visit Type,SP : Sports Physical,7
+2026-07,Visit Type,THealth : Telehealth,15
+2026-08,Visit Type,ECMCKBill : ECM Check In (Billable),57
+2026-08,Visit Type,MAT : Medically Assisted Treatment Visit,8
+2026-08,Visit Type,MATNEW : MAT new patient,2
+2026-08,Visit Type,MNP : Mobile New Patient,9
+2026-08,Visit Type,OV : Office Visit,13
+2026-08,Visit Type,Other (free text),1
+2026-08,Visit Type,SP : Sports Physical,15
+2026-08,Visit Type,THealth : Telehealth,17
+2026-08,Visit Type,Urg Care : Urgent Care Appointment,7
+2026-09,Visit Type,ECMCKBill : ECM Check In (Billable),55
+2026-09,Visit Type,ECMIntBill : ECM Intake (Billable),1
+2026-09,Visit Type,MAT : Medically Assisted Treatment Visit,6
+2026-09,Visit Type,MATNEW : MAT new patient,1
+2026-09,Visit Type,MNP : Mobile New Patient,3
+2026-09,Visit Type,OV : Office Visit,23
+2026-09,Visit Type,Other (free text),2
+2026-09,Visit Type,SP : Sports Physical,1
+2026-09,Visit Type,THealth : Telehealth,6
+2026-09,Visit Type,Urg Care : Urgent Care Appointment,6
+2026-10,Visit Type,ECMCKBill : ECM Check In (Billable),44
+2026-10,Visit Type,MAT : Medically Assisted Treatment Visit,4
+2026-10,Visit Type,MATNEW : MAT new patient,1
+2026-10,Visit Type,MNP : Mobile New Patient,6
+2026-10,Visit Type,OV : Office Visit,21
+2026-10,Visit Type,Other (free text),1
+2026-10,Visit Type,SP : Sports Physical,3
+2026-10,Visit Type,THealth : Telehealth,8
+2026-10,Visit Type,Urg Care : Urgent Care Appointment,3
+2026-01,Reason,ECM,11
+2026-01,Reason,ECM Check-In,4
+2026-01,Reason,ECM check in,1
+2026-01,Reason,ECM check-in,6
+2026-01,Reason,Other (free text),10
+2026-01,Reason,ecm,8
+2026-02,Reason,ECM,6
+2026-02,Reason,ECM Check-In,9
+2026-02,Reason,ECM check in,9
+2026-02,Reason,Other (free text),11
+2026-02,Reason,ecm,10
+2026-03,Reason,ECM,5
+2026-03,Reason,ECM Billable,2
+2026-03,Reason,ECM Check In Billable,1
+2026-03,Reason,ECM Check-In,13
+2026-03,Reason,ECM check in,1
+2026-03,Reason,ECM check-in,2
+2026-03,Reason,ECM/CS,1
+2026-03,Reason,Other (free text),19
+2026-03,Reason,ecm,7
+2026-03,Reason,f/u,1
+2026-04,Reason,ECM,7
+2026-04,Reason,ECM Billable,3
+2026-04,Reason,ECM Check In,6
+2026-04,Reason,ECM Check In Billable,5
+2026-04,Reason,ECM Check in,2
+2026-04,Reason,ECM Check-In,7
+2026-04,Reason,ECM check in,2
+2026-04,Reason,ECM check-in,3
+2026-04,Reason,Other (free text),23
+2026-04,Reason,ecm,12
+2026-05,Reason,ECM,15
+2026-05,Reason,ECM Billable,1
+2026-05,Reason,ECM Check - In,1
+2026-05,Reason,ECM Check in,1
+2026-05,Reason,ECM Check-In,14
+2026-05,Reason,ECM check in,5
+2026-05,Reason,ECM/CS,2
+2026-05,Reason,Other (free text),17
+2026-05,Reason,ecm,20
+2026-06,Reason,ECM,16
+2026-06,Reason,ECM Billable,2
+2026-06,Reason,ECM Check - In,2
+2026-06,Reason,ECM Check In Billable,4
+2026-06,Reason,ECM Check in,3
+2026-06,Reason,ECM Check-In,13
+2026-06,Reason,ECM check in,6
+2026-06,Reason,ECM check-in,1
+2026-06,Reason,ECM/CS,2
+2026-06,Reason,Other (free text),47
+2026-06,Reason,Sports Physical,1
+2026-06,Reason,birth control,3
+2026-06,Reason,ecm,2
+2026-06,Reason,ecm check in,2
+2026-06,Reason,f/u,1
+2026-06,Reason,sports phy,1
+2026-07,Reason,ECM,13
+2026-07,Reason,ECM Check In,6
+2026-07,Reason,ECM Check In Billable,4
+2026-07,Reason,ECM Check-In,13
+2026-07,Reason,ECM check in,6
+2026-07,Reason,ECM/CS,3
+2026-07,Reason,Other (free text),44
+2026-07,Reason,Sports Physical,1
+2026-07,Reason,ecm,2
+2026-07,Reason,ecm check in,8
+2026-07,Reason,sports phy,3
+2026-08,Reason,ECM,15
+2026-08,Reason,ECM Check - In,1
+2026-08,Reason,ECM Check In,6
+2026-08,Reason,ECM Check In Billable,4
+2026-08,Reason,ECM Check in,1
+2026-08,Reason,ECM Check-In,12
+2026-08,Reason,ECM check in,11
+2026-08,Reason,ECM/CS,2
+2026-08,Reason,Other (free text),60
+2026-08,Reason,SH f/u,3
+2026-08,Reason,Sports Physical,5
+2026-08,Reason,birth control,1
+2026-08,Reason,ecm,2
+2026-08,Reason,ecm check in,1
+2026-08,Reason,f/u,1
+2026-08,Reason,sports phy,4
+2026-09,Reason,ECM,17
+2026-09,Reason,ECM Billable,2
+2026-09,Reason,ECM Check In,3
+2026-09,Reason,ECM Check In Billable,1
+2026-09,Reason,ECM Check in,1
+2026-09,Reason,ECM Check-In,11
+2026-09,Reason,ECM check in,6
+2026-09,Reason,ECM/CS,2
+2026-09,Reason,Other (free text),51
+2026-09,Reason,SH f/u,2
+2026-09,Reason,birth control,1
+2026-09,Reason,ecm check in,5
+2026-09,Reason,f/u,2
+2026-10,Reason,ECM,16
+2026-10,Reason,ECM Billable,1
+2026-10,Reason,ECM Check - In,3
+2026-10,Reason,ECM Check In,3
+2026-10,Reason,ECM Check-In,6
+2026-10,Reason,ECM check in,2
+2026-10,Reason,ECM/CS,3
+2026-10,Reason,Other (free text),54
+2026-10,Reason,ecm,1
+2026-10,Reason,ecm check in,2

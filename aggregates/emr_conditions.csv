@@ -1,0 +1,74 @@
+Condition,Class,Age Group,Gender,Patients
+Hypertension,Elevated,0-17,female,3
+Hypertension,Normal,0-17,female,11
+Hypertension,Stage 1,0-17,female,2
+Hypertension,Elevated,0-17,male,1
+Hypertension,Normal,0-17,male,6
+Hypertension,Stage 1,0-17,male,6
+Hypertension,Normal,18-29,female,3
+Hypertension,Stage 1,18-29,female,4
+Hypertension,Stage 2,18-29,female,1
+Hypertension,Normal,18-29,male,1
+Hypertension,Stage 2,18-29,male,1
+Hypertension,Elevated,30-44,female,2
+Hypertension,Normal,30-44,female,9
+Hypertension,Stage 1,30-44,female,4
+Hypertension,Stage 2,30-44,female,6
+Hypertension,Elevated,30-44,male,1
+Hypertension,Normal,30-44,male,3
+Hypertension,Stage 1,30-44,male,4
+Hypertension,Stage 2,30-44,male,2
+Hypertension,Normal,45-64,female,2
+Hypertension,Stage 1,45-64,female,3
+Hypertension,Stage 2,45-64,female,7
+Hypertension,Normal,45-64,male,1
+Hypertension,Stage 1,45-64,male,2
+Hypertension,Stage 2,45-64,male,10
+Hypertension,Elevated,65+,female,2
+Hypertension,Normal,65+,female,3
+Hypertension,Stage 1,65+,female,2
+Hypertension,Stage 2,65+,female,8
+Hypertension,Hypertensive Crisis,65+,male,1
+Hypertension,Normal,65+,male,1
+Hypertension,Stage 1,65+,male,1
+Hypertension,Stage 2,65+,male,6
+Diabetes (A1c),Normal (<5.7),30-44,female,4
+Diabetes (A1c),Normal (<5.7),30-44,male,1
+Diabetes (A1c),Prediabetes (5.7-6.4),30-44,male,1
+Diabetes (A1c),Diabetes (6.5+),45-64,female,1
+Diabetes (A1c),Normal (<5.7),45-64,female,3
+Diabetes (A1c),Prediabetes (5.7-6.4),45-64,female,1
+Diabetes (A1c),Normal (<5.7),45-64,male,1
+Diabetes (A1c),Prediabetes (5.7-6.4),45-64,male,2
+Diabetes (A1c),Normal (<5.7),65+,female,3
+Diabetes (A1c),Diabetes (6.5+),65+,male,1
+Obesity (BMI),Below 30,0-17,female,14
+Obesity (BMI),Class 1 (30-34.9),0-17,female,2
+Obesity (BMI),Below 30,0-17,male,9
+Obesity (BMI),Class 1 (30-34.9),0-17,male,3
+Obesity (BMI),Class 3 (40+),0-17,male,1
+Obesity (BMI),Below 30,18-29,female,5
+Obesity (BMI),Class 1 (30-34.9),18-29,female,1
+Obesity (BMI),Class 2 (35-39.9),18-29,female,1
+Obesity (BMI),Below 30,18-29,male,1
+Obesity (BMI),Class 3 (40+),18-29,male,1
+Obesity (BMI),Below 30,30-44,female,15
+Obesity (BMI),Class 1 (30-34.9),30-44,female,1
+Obesity (BMI),Class 2 (35-39.9),30-44,female,1
+Obesity (BMI),Class 3 (40+),30-44,female,3
+Obesity (BMI),Below 30,30-44,male,6
+Obesity (BMI),Class 1 (30-34.9),30-44,male,2
+Obesity (BMI),Class 2 (35-39.9),30-44,male,1
+Obesity (BMI),Class 3 (40+),30-44,male,1
+Obesity (BMI),Below 30,45-64,female,7
+Obesity (BMI),Class 1 (30-34.9),45-64,female,2
+Obesity (BMI),Class 3 (40+),45-64,female,2
+Obesity (BMI),Below 30,45-64,male,6
+Obesity (BMI),Class 1 (30-34.9),45-64,male,3
+Obesity (BMI),Class 2 (35-39.9),45-64,male,2
+Obesity (BMI),Class 3 (40+),45-64,male,1
+Obesity (BMI),Below 30,65+,female,8
+Obesity (BMI),Class 1 (30-34.9),65+,female,2
+Obesity (BMI),Class 2 (35-39.9),65+,female,3
+Obesity (BMI),Below 30,65+,male,8
+Obesity (BMI),Class 1 (30-34.9),65+,male,1

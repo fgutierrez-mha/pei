@@ -1,0 +1,53 @@
+Dimension,Value,Patients
+Age group,0-17,40
+Age group,18-29,21
+Age group,30-44,54
+Age group,45-64,53
+Age group,65+,51
+Ethnicity,Andalusian,1
+Ethnicity,Central American Indian,1
+Ethnicity,Declined to Specify,71
+Ethnicity,Hispanic or Latino,41
+Ethnicity,Mexican,6
+Ethnicity,Mexican American Indian,1
+Ethnicity,Mexicano,4
+Ethnicity,Not Hispanic or Latino,82
+Ethnicity,Spanish Basque,1
+Ethnicity,Unknown,11
+Gender,female,127
+Gender,male,92
+Payer,Blue Shield of California,9
+Payer,Health Net of California and Oregon,1
+Payer,Medi-Cal,2
+Payer,Medicare,21
+Payer,Partnership Health Plan,121
+Payer,Self-Pay,64
+Payer,United HealthCare,1
+Language,Declined to Specify,3
+Language,English,179
+Language,Spanish,9
+Language,Spanish;Castilian,18
+Language,Unknown,10
+Zip,57103,1
+Zip,94087,1
+Zip,94129,1
+Zip,94571,1
+Zip,95403,1
+Zip,95412,5
+Zip,95421,2
+Zip,95432,1
+Zip,95437,1
+Zip,95445,86
+Zip,95446,2
+Zip,95449,1
+Zip,95450,2
+Zip,95454,1
+Zip,95459,15
+Zip,95468,77
+Zip,95472,1
+Zip,95480,3
+Zip,95482,1
+Zip,95497,5
+Zip,95812,1
+Zip,96545,1
+Zip,Unknown,9
