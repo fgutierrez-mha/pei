@@ -8,12 +8,17 @@ The app reads only pre-computed, identifier-free CSVs from `aggregates/`; it nev
 |---|---|
 | `mhaPEI.py` | Streamlit app (reads `aggregates/*.csv`) |
 | `mhaPEIAggregates.py` | Local-only script: Excel exports -> `aggregates/*.csv` |
+| `assets/mha_logo.png` | Logo shown in the dashboard header (resized copy of `MHA Logo Vector.png`) |
 | `requirements.txt`, `.streamlit/config.toml` | Dependencies and blue theme |
 
 ## Refresh the data (on the PC that holds the Excel files)
 1. Put `Encounters.xlsx`, `Vitals.xlsx`, `Labs.xlsx` and `GeneralActivities_Split.xlsx` in `Desktop\PEI`.
 2. `python mhaPEIAggregates.py [data_folder] [output_folder]`
 3. `streamlit run mhaPEI.py`
+
+## Using the dashboard
+Each tab has a **Time Period** picker: All Time, Last 12 / 6 / 3 Months, Year to Date, or Custom (pick From and To months).
+It filters the monthly charts; demographics and chronic-condition views cover all patients.
 
 ## Variables
 | Name | Where | Default | Meaning |
